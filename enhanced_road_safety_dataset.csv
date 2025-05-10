@@ -1,0 +1,1001 @@
+Accident_ID,Date,Time,Location,Weather_Condition,Road_Surface,Light_Condition,Traffic_Density,Vehicle_Type,Driver_Age,Driver_Gender,Speed_kmph,Accident_Severity,Casualties,Cause
+A10000,2025-01-28,19:12,Sarah Shoal,Clear,Dry,Night without streetlights,Medium,Car,32,Male,114,Minor,0,Mechanical Failure
+A10001,2023-07-02,01:26,Dorsey Isle,Clear,Snowy,Night with streetlights,Low,Car,23,Male,49,Minor,0,Speeding
+A10002,2025-01-06,13:44,Mark Village,Rainy,Snowy,Night without streetlights,High,Motorcycle,44,Male,77,Minor,0,Speeding
+A10003,2024-04-05,18:25,Johnson Springs,Rainy,Snowy,Night with streetlights,Medium,Truck,27,Male,117,Minor,0,Speeding
+A10004,2023-11-07,06:51,Pamela Ferry,Snow,Dry,Night with streetlights,Medium,Motorcycle,34,Male,113,Minor,0,Speeding
+A10005,2025-03-10,05:10,Rhodes Ford,Snow,Dry,Night without streetlights,Medium,Motorcycle,57,Female,93,Minor,0,Speeding
+A10006,2024-10-19,22:33,Amber Haven,Clear,Snowy,Daylight,Medium,Car,72,Male,32,Minor,0,Low Visibility
+A10007,2023-07-26,18:00,Williams Row,Fog,Dry,Night with streetlights,Medium,Car,60,Female,109,Fatal,5,Speeding
+A10008,2023-06-29,20:21,Nicole Common,Rainy,Snowy,Night without streetlights,Low,Car,47,Female,54,Fatal,5,Mechanical Failure
+A10009,2024-07-07,11:22,Sara Mill,Rainy,Snowy,Night with streetlights,Low,Car,70,Male,60,Minor,0,Speeding
+A10010,2024-08-26,22:36,Regina Skyway,Rainy,Snowy,Night without streetlights,Medium,Car,59,Female,70,Serious,5,Low Visibility
+A10011,2024-02-22,00:00,Blair Lodge,Rainy,Wet,Daylight,Low,Motorcycle,53,Female,115,Minor,0,Mechanical Failure
+A10012,2024-08-11,17:38,Michael Row,Snow,Wet,Daylight,Low,Motorcycle,49,Male,116,Minor,0,Speeding
+A10013,2024-02-11,02:06,Cristina Drive,Rainy,Snowy,Daylight,High,Truck,56,Male,69,Minor,0,Low Visibility
+A10014,2024-08-03,08:27,Henderson Square,Fog,Snowy,Daylight,High,Motorcycle,25,Female,118,Minor,0,Speeding
+A10015,2025-03-07,17:49,Madeline Stravenue,Fog,Wet,Daylight,Medium,Car,64,Female,84,Serious,4,Speeding
+A10016,2024-05-05,17:09,Young Ramp,Fog,Snowy,Night without streetlights,High,Car,27,Female,117,Minor,0,Mechanical Failure
+A10017,2023-11-13,10:41,Robinson Estates,Clear,Snowy,Night with streetlights,Medium,Car,25,Female,59,Minor,0,Drunk Driving
+A10018,2023-08-27,20:39,Maria Turnpike,Clear,Dry,Night without streetlights,Medium,Car,66,Male,36,Minor,0,Mechanical Failure
+A10019,2023-09-04,22:43,Howard Summit,Rainy,Wet,Night without streetlights,High,Truck,31,Male,111,Minor,0,Weather
+A10020,2024-08-27,11:56,Huff Row,Snow,Snowy,Night with streetlights,Low,Car,32,Male,63,Minor,0,Mechanical Failure
+A10021,2024-04-26,14:29,Gordon Meadows,Rainy,Snowy,Daylight,Low,Car,63,Male,49,Minor,0,Speeding
+A10022,2024-12-29,03:43,Dean Port,Fog,Dry,Night without streetlights,Low,Truck,60,Female,47,Minor,0,Mechanical Failure
+A10023,2023-12-30,13:21,Evans Meadows,Snow,Dry,Night with streetlights,Medium,Car,24,Male,104,Minor,0,Low Visibility
+A10024,2024-12-03,01:50,Esparza Brook,Snow,Wet,Night without streetlights,Low,Motorcycle,59,Male,27,Minor,0,Weather
+A10025,2024-08-18,10:21,Brown Plaza,Clear,Dry,Daylight,Low,Motorcycle,46,Male,74,Minor,0,Low Visibility
+A10026,2024-04-12,04:30,Brooks Ramp,Rainy,Dry,Night with streetlights,High,Car,21,Male,31,Fatal,1,Drunk Driving
+A10027,2025-03-31,14:33,Amanda Grove,Snow,Wet,Night with streetlights,Low,Truck,75,Male,41,Minor,0,Low Visibility
+A10028,2023-12-14,10:59,Patrick Trail,Fog,Wet,Night with streetlights,Medium,Motorcycle,64,Female,39,Minor,0,Drunk Driving
+A10029,2024-08-27,15:31,Pamela Forges,Clear,Snowy,Night without streetlights,High,Car,65,Female,27,Minor,0,Low Visibility
+A10030,2024-07-08,07:46,Gregory Lake,Rainy,Dry,Night without streetlights,Low,Car,22,Male,106,Serious,3,Speeding
+A10031,2025-04-09,21:51,Mills Trafficway,Rainy,Snowy,Night without streetlights,Low,Motorcycle,23,Female,104,Minor,0,Mechanical Failure
+A10032,2024-03-17,10:07,Smith Island,Fog,Wet,Daylight,High,Motorcycle,38,Male,53,Minor,0,Weather
+A10033,2024-08-16,12:06,Angela Lights,Snow,Wet,Daylight,Low,Truck,57,Male,29,Minor,0,Mechanical Failure
+A10034,2025-03-04,15:15,Jenkins Alley,Fog,Dry,Night with streetlights,Low,Car,41,Female,40,Minor,0,Mechanical Failure
+A10035,2023-07-09,02:13,Douglas Pine,Fog,Snowy,Night without streetlights,High,Car,60,Female,104,Minor,0,Drunk Driving
+A10036,2023-11-26,00:22,Gabriella Crossroad,Fog,Dry,Daylight,High,Motorcycle,27,Female,56,Minor,0,Weather
+A10037,2023-11-21,04:25,Julie Burg,Rainy,Snowy,Night without streetlights,Medium,Motorcycle,49,Female,26,Minor,0,Low Visibility
+A10038,2025-04-26,17:20,Bell Harbors,Fog,Dry,Daylight,Medium,Car,58,Female,40,Serious,4,Low Visibility
+A10039,2024-04-11,20:53,Todd Mews,Clear,Dry,Daylight,High,Car,52,Male,67,Minor,0,Drunk Driving
+A10040,2024-09-11,04:29,Jackson Garden,Snow,Dry,Daylight,Medium,Truck,75,Male,65,Minor,0,Drunk Driving
+A10041,2023-08-19,13:40,Robert Track,Clear,Wet,Night without streetlights,Medium,Motorcycle,65,Male,50,Serious,1,Low Visibility
+A10042,2024-03-13,13:21,Nicole Meadows,Clear,Dry,Night without streetlights,Medium,Truck,69,Male,54,Minor,0,Speeding
+A10043,2023-11-06,22:54,Reyes Bridge,Snow,Dry,Night with streetlights,Low,Car,70,Female,64,Minor,0,Drunk Driving
+A10044,2024-12-10,04:09,Wood Highway,Rainy,Dry,Night without streetlights,Low,Truck,39,Female,28,Fatal,2,Weather
+A10045,2025-04-26,00:21,Levine Neck,Snow,Snowy,Night without streetlights,Medium,Car,25,Female,42,Minor,0,Weather
+A10046,2024-06-29,11:53,Megan Grove,Clear,Dry,Night without streetlights,Medium,Truck,64,Female,75,Minor,0,Mechanical Failure
+A10047,2024-07-14,06:50,Megan Pass,Clear,Wet,Night without streetlights,Low,Truck,20,Female,20,Minor,0,Mechanical Failure
+A10048,2023-07-23,04:42,Daugherty Junctions,Rainy,Wet,Night with streetlights,Low,Motorcycle,39,Female,104,Serious,5,Weather
+A10049,2024-12-21,07:17,Jacob Track,Fog,Snowy,Night with streetlights,Medium,Truck,62,Female,90,Minor,0,Low Visibility
+A10050,2024-01-19,18:19,Ramirez Walk,Snow,Snowy,Night without streetlights,Low,Motorcycle,54,Female,71,Minor,0,Speeding
+A10051,2025-03-03,05:09,Love Streets,Fog,Wet,Daylight,Medium,Motorcycle,56,Female,79,Minor,0,Drunk Driving
+A10052,2024-08-03,00:32,Ingram Tunnel,Snow,Snowy,Daylight,High,Car,36,Female,31,Serious,1,Weather
+A10053,2024-10-17,07:35,Carter Village,Rainy,Dry,Daylight,Low,Car,33,Female,98,Serious,0,Low Visibility
+A10054,2023-05-18,17:55,Dominique Inlet,Snow,Snowy,Night without streetlights,Low,Motorcycle,62,Female,83,Minor,0,Drunk Driving
+A10055,2024-01-02,17:40,Luis Spur,Clear,Dry,Night with streetlights,Low,Car,69,Female,26,Minor,0,Speeding
+A10056,2024-11-29,11:16,Cook Spring,Snow,Dry,Night with streetlights,High,Motorcycle,53,Female,116,Serious,4,Mechanical Failure
+A10057,2024-10-03,02:56,Erin Bypass,Snow,Snowy,Night with streetlights,Low,Motorcycle,73,Female,77,Minor,0,Drunk Driving
+A10058,2024-06-01,15:13,Meadows Dam,Fog,Snowy,Night with streetlights,High,Car,35,Female,29,Serious,1,Weather
+A10059,2024-05-17,02:08,Kim Fall,Fog,Wet,Night without streetlights,Low,Car,27,Male,69,Minor,0,Drunk Driving
+A10060,2023-11-15,15:50,Robinson Underpass,Clear,Wet,Night with streetlights,Medium,Motorcycle,47,Female,27,Minor,0,Low Visibility
+A10061,2025-03-22,18:22,Lisa Estate,Snow,Snowy,Night without streetlights,Low,Motorcycle,42,Female,20,Fatal,2,Low Visibility
+A10062,2024-12-11,19:13,Denise Crossing,Snow,Snowy,Night without streetlights,High,Motorcycle,69,Male,82,Minor,0,Low Visibility
+A10063,2024-05-18,03:44,Smith Trail,Snow,Dry,Night with streetlights,Medium,Motorcycle,61,Female,112,Minor,0,Low Visibility
+A10064,2023-06-26,22:26,Moreno Wall,Rainy,Snowy,Night without streetlights,Low,Truck,55,Male,30,Minor,0,Drunk Driving
+A10065,2024-08-20,08:21,Raymond Field,Snow,Dry,Daylight,Medium,Truck,38,Male,78,Minor,0,Low Visibility
+A10066,2023-05-16,11:37,Thomas Garden,Fog,Wet,Night with streetlights,Low,Truck,19,Male,64,Minor,0,Speeding
+A10067,2025-03-11,19:43,Herrera Expressway,Clear,Dry,Daylight,Low,Car,57,Male,50,Minor,0,Speeding
+A10068,2024-09-23,01:24,Brett Crossing,Rainy,Wet,Night without streetlights,Medium,Truck,28,Male,119,Serious,2,Speeding
+A10069,2025-03-28,19:08,Harrell Island,Clear,Wet,Night without streetlights,High,Truck,43,Male,29,Minor,0,Drunk Driving
+A10070,2023-12-30,18:00,Stark Cove,Clear,Snowy,Night with streetlights,High,Motorcycle,69,Male,92,Serious,2,Mechanical Failure
+A10071,2024-03-10,02:18,Jennifer Drives,Snow,Snowy,Night with streetlights,Low,Motorcycle,59,Female,21,Serious,3,Speeding
+A10072,2023-07-04,04:18,Christopher Points,Snow,Wet,Night without streetlights,Medium,Motorcycle,27,Female,42,Serious,5,Weather
+A10073,2023-10-05,20:35,Morton Trail,Snow,Wet,Night with streetlights,High,Motorcycle,35,Female,51,Serious,0,Weather
+A10074,2024-05-30,09:20,Cynthia Path,Snow,Dry,Night with streetlights,High,Motorcycle,60,Female,63,Minor,0,Weather
+A10075,2024-04-19,20:06,Joseph Mews,Rainy,Wet,Daylight,Medium,Truck,39,Female,96,Serious,2,Mechanical Failure
+A10076,2025-04-13,03:54,Luis Trace,Clear,Snowy,Daylight,Low,Car,64,Female,82,Minor,0,Drunk Driving
+A10077,2024-11-10,15:54,Robinson Forge,Snow,Snowy,Night without streetlights,Medium,Truck,68,Male,31,Minor,0,Low Visibility
+A10078,2024-12-03,14:46,Megan Turnpike,Rainy,Wet,Night without streetlights,High,Truck,48,Female,74,Fatal,4,Weather
+A10079,2025-02-15,00:27,Hooper Viaduct,Fog,Snowy,Night with streetlights,Medium,Truck,34,Male,35,Serious,2,Speeding
+A10080,2023-11-14,05:39,Webb Junctions,Rainy,Dry,Daylight,High,Truck,35,Female,32,Serious,2,Drunk Driving
+A10081,2024-10-28,23:52,Amanda Circles,Fog,Dry,Night with streetlights,Low,Motorcycle,52,Male,55,Minor,0,Speeding
+A10082,2025-02-12,01:38,Miranda Circles,Fog,Snowy,Daylight,High,Truck,24,Male,93,Minor,0,Low Visibility
+A10083,2024-12-10,14:10,Jennifer Mews,Snow,Wet,Daylight,Low,Truck,73,Female,34,Serious,3,Low Visibility
+A10084,2024-03-30,00:06,Taylor Unions,Clear,Snowy,Night without streetlights,High,Car,27,Male,92,Fatal,0,Drunk Driving
+A10085,2023-09-28,13:42,Joy Hollow,Clear,Snowy,Night with streetlights,High,Motorcycle,68,Male,119,Minor,0,Low Visibility
+A10086,2023-08-26,06:04,Susan Union,Snow,Wet,Night without streetlights,Medium,Truck,54,Male,98,Fatal,0,Drunk Driving
+A10087,2023-12-05,22:31,Nicole Points,Rainy,Wet,Night without streetlights,Low,Car,33,Male,90,Minor,0,Speeding
+A10088,2023-12-15,17:29,Christopher Shores,Snow,Wet,Night without streetlights,High,Truck,36,Male,49,Minor,0,Weather
+A10089,2024-05-12,23:27,Weber Islands,Snow,Dry,Night without streetlights,Low,Truck,68,Male,74,Minor,0,Drunk Driving
+A10090,2025-01-31,16:21,Daniel Flats,Rainy,Wet,Daylight,Low,Car,28,Female,96,Serious,4,Weather
+A10091,2024-08-07,17:22,Sanchez Freeway,Snow,Dry,Night with streetlights,High,Truck,62,Female,54,Minor,0,Low Visibility
+A10092,2023-08-16,15:37,Morris Street,Snow,Dry,Night without streetlights,Low,Truck,65,Female,97,Minor,0,Speeding
+A10093,2023-09-05,22:59,Rodriguez Common,Rainy,Snowy,Night without streetlights,High,Car,66,Female,93,Minor,0,Drunk Driving
+A10094,2024-02-16,09:25,Cantu Estates,Snow,Snowy,Night without streetlights,Medium,Truck,29,Female,101,Serious,0,Low Visibility
+A10095,2023-05-17,02:25,Kerri Groves,Fog,Wet,Night with streetlights,Medium,Motorcycle,24,Male,62,Minor,0,Low Visibility
+A10096,2023-05-20,03:34,David Hollow,Fog,Snowy,Night with streetlights,High,Car,47,Male,60,Minor,0,Speeding
+A10097,2025-03-01,04:26,Kim Keys,Snow,Snowy,Daylight,High,Motorcycle,47,Female,26,Minor,0,Weather
+A10098,2025-02-05,07:15,Duncan Mountain,Snow,Snowy,Night with streetlights,Low,Car,35,Male,56,Minor,0,Low Visibility
+A10099,2024-11-26,15:09,Crystal Bridge,Clear,Dry,Night without streetlights,High,Car,63,Male,59,Minor,0,Mechanical Failure
+A10100,2025-03-26,11:23,Christopher Mount,Snow,Dry,Daylight,Low,Truck,25,Male,83,Fatal,2,Mechanical Failure
+A10101,2024-10-06,22:46,Tyler Mountains,Fog,Wet,Night with streetlights,Medium,Car,47,Male,69,Minor,0,Mechanical Failure
+A10102,2023-08-28,15:56,Lewis Crossroad,Rainy,Dry,Night with streetlights,Medium,Truck,68,Female,20,Minor,0,Weather
+A10103,2024-11-20,22:55,Patterson Union,Snow,Dry,Night with streetlights,High,Truck,40,Female,90,Serious,3,Low Visibility
+A10104,2025-01-31,21:10,Hill Park,Fog,Dry,Night without streetlights,Low,Motorcycle,42,Male,119,Minor,0,Weather
+A10105,2023-06-20,08:08,David Burg,Snow,Snowy,Night with streetlights,Medium,Motorcycle,68,Male,83,Fatal,1,Mechanical Failure
+A10106,2023-11-26,09:54,Alexandra Cape,Fog,Dry,Night with streetlights,Low,Motorcycle,47,Male,112,Minor,0,Drunk Driving
+A10107,2023-11-28,09:05,Christina Corner,Clear,Wet,Night with streetlights,Medium,Motorcycle,62,Female,103,Minor,0,Weather
+A10108,2023-11-05,23:49,Wells Drives,Snow,Wet,Night without streetlights,High,Truck,73,Male,99,Minor,0,Weather
+A10109,2024-03-02,16:47,Giles Islands,Rainy,Snowy,Daylight,Medium,Car,66,Male,76,Minor,0,Weather
+A10110,2024-07-04,06:23,Kelly Landing,Clear,Dry,Night with streetlights,Low,Truck,40,Female,75,Minor,0,Mechanical Failure
+A10111,2025-02-18,13:55,Charles Locks,Snow,Snowy,Night without streetlights,Low,Car,29,Male,98,Serious,4,Drunk Driving
+A10112,2024-02-24,22:21,Mendoza Club,Snow,Snowy,Daylight,Low,Truck,58,Female,78,Minor,0,Speeding
+A10113,2023-11-15,21:13,Moore Mountain,Snow,Wet,Night without streetlights,High,Car,22,Female,64,Fatal,2,Low Visibility
+A10114,2024-06-22,19:14,Chad Flat,Fog,Wet,Night with streetlights,Low,Truck,72,Female,33,Minor,0,Mechanical Failure
+A10115,2025-03-08,13:05,Barbara Manor,Fog,Snowy,Night with streetlights,High,Truck,19,Female,55,Minor,0,Speeding
+A10116,2024-02-18,14:14,Smith Hollow,Snow,Wet,Daylight,High,Truck,32,Male,99,Minor,0,Drunk Driving
+A10117,2023-07-11,16:58,Mclaughlin Inlet,Clear,Snowy,Night without streetlights,Low,Truck,68,Female,24,Minor,0,Drunk Driving
+A10118,2023-05-08,04:08,Bennett Unions,Clear,Wet,Night with streetlights,High,Truck,29,Male,36,Serious,2,Mechanical Failure
+A10119,2024-11-12,01:52,Pena Centers,Fog,Dry,Night with streetlights,Medium,Truck,65,Female,34,Minor,0,Speeding
+A10120,2023-06-13,21:26,Richard Crossroad,Rainy,Dry,Night without streetlights,High,Motorcycle,43,Female,31,Serious,0,Weather
+A10121,2025-03-14,03:58,Yesenia Village,Clear,Wet,Night with streetlights,High,Motorcycle,61,Female,94,Minor,0,Weather
+A10122,2023-12-27,09:30,Castaneda Isle,Clear,Snowy,Daylight,Medium,Car,57,Female,98,Minor,0,Speeding
+A10123,2024-08-24,18:02,Tucker Glens,Snow,Snowy,Night with streetlights,High,Truck,25,Male,25,Fatal,2,Low Visibility
+A10124,2024-02-23,02:12,Salas Camp,Clear,Dry,Daylight,High,Car,42,Female,67,Minor,0,Mechanical Failure
+A10125,2025-01-12,02:01,Benton Village,Snow,Snowy,Night without streetlights,High,Car,74,Female,103,Minor,0,Low Visibility
+A10126,2023-11-11,23:18,Kimberly Haven,Snow,Wet,Daylight,High,Truck,31,Female,76,Fatal,2,Speeding
+A10127,2024-04-04,18:11,Miguel Camp,Fog,Snowy,Night without streetlights,Medium,Car,43,Female,44,Fatal,3,Speeding
+A10128,2023-05-08,08:21,Ashley Lodge,Rainy,Snowy,Night without streetlights,High,Car,21,Female,51,Fatal,4,Drunk Driving
+A10129,2023-11-11,04:35,Dean Mountain,Clear,Snowy,Daylight,High,Car,70,Male,62,Serious,4,Speeding
+A10130,2024-11-09,19:53,Reed Points,Fog,Dry,Daylight,High,Truck,69,Male,34,Minor,0,Speeding
+A10131,2025-03-28,05:58,Richard Drive,Rainy,Dry,Night with streetlights,Low,Motorcycle,38,Male,42,Minor,0,Drunk Driving
+A10132,2024-12-20,22:33,Michael Way,Snow,Snowy,Daylight,High,Car,48,Female,119,Minor,0,Mechanical Failure
+A10133,2025-02-22,09:25,Maria Stream,Clear,Wet,Night without streetlights,Low,Motorcycle,20,Female,78,Minor,0,Speeding
+A10134,2023-09-02,20:38,Matthew Trail,Clear,Wet,Night with streetlights,Medium,Motorcycle,24,Female,111,Fatal,0,Speeding
+A10135,2023-12-24,11:05,Daniel Mountains,Fog,Snowy,Daylight,Low,Car,35,Female,68,Fatal,4,Weather
+A10136,2025-02-16,10:05,Yvonne Summit,Snow,Snowy,Night without streetlights,Medium,Car,68,Male,103,Minor,0,Mechanical Failure
+A10137,2024-01-26,18:11,Michael Greens,Rainy,Wet,Night with streetlights,Low,Truck,39,Female,71,Minor,0,Speeding
+A10138,2025-01-06,21:33,Noah Lodge,Fog,Wet,Night with streetlights,High,Truck,41,Male,107,Fatal,0,Speeding
+A10139,2025-01-24,10:15,Michelle Light,Clear,Dry,Night with streetlights,Low,Motorcycle,65,Female,36,Minor,0,Mechanical Failure
+A10140,2024-12-30,04:44,Smith Flats,Fog,Snowy,Daylight,Medium,Truck,73,Female,112,Minor,0,Weather
+A10141,2024-10-09,14:18,Craig Corners,Fog,Wet,Daylight,High,Motorcycle,31,Male,104,Minor,0,Speeding
+A10142,2023-06-09,03:54,Johnson Cliff,Fog,Snowy,Night with streetlights,Low,Truck,54,Male,74,Serious,4,Mechanical Failure
+A10143,2023-12-28,06:25,Ramirez Villages,Clear,Snowy,Night without streetlights,High,Truck,19,Male,54,Serious,2,Weather
+A10144,2024-09-04,14:42,Kyle Plaza,Fog,Dry,Daylight,Low,Motorcycle,60,Female,28,Minor,0,Speeding
+A10145,2024-07-29,03:36,Carpenter Cliff,Clear,Snowy,Night without streetlights,Low,Truck,44,Female,63,Minor,0,Weather
+A10146,2023-05-21,19:59,Robert Rapids,Fog,Snowy,Night without streetlights,Low,Car,27,Male,116,Minor,0,Speeding
+A10147,2023-05-12,10:02,Dixon Creek,Fog,Wet,Night without streetlights,Medium,Truck,56,Female,73,Minor,0,Mechanical Failure
+A10148,2023-08-24,02:26,Pena Loaf,Clear,Wet,Night with streetlights,Low,Truck,61,Female,87,Minor,0,Speeding
+A10149,2023-06-06,06:28,Amy Harbors,Rainy,Wet,Night without streetlights,Low,Car,31,Female,47,Serious,2,Weather
+A10150,2025-04-27,16:51,Stephen Island,Fog,Dry,Daylight,Medium,Motorcycle,45,Male,36,Minor,0,Drunk Driving
+A10151,2023-10-30,04:00,Kathleen Islands,Fog,Dry,Night with streetlights,High,Car,45,Male,78,Fatal,2,Mechanical Failure
+A10152,2024-11-23,09:12,Rodriguez Trail,Snow,Snowy,Night with streetlights,High,Motorcycle,44,Female,34,Minor,0,Weather
+A10153,2024-06-29,20:51,Acosta Wells,Rainy,Snowy,Night with streetlights,High,Truck,23,Female,33,Minor,0,Mechanical Failure
+A10154,2024-07-08,06:32,Wendy Island,Snow,Snowy,Daylight,Medium,Truck,65,Female,48,Minor,0,Drunk Driving
+A10155,2023-12-25,23:36,Danielle Drive,Clear,Snowy,Night without streetlights,Low,Motorcycle,50,Male,119,Minor,0,Drunk Driving
+A10156,2024-07-07,07:48,Michael Brooks,Rainy,Dry,Daylight,Medium,Car,29,Male,117,Serious,0,Drunk Driving
+A10157,2024-09-19,22:52,Douglas Loop,Snow,Wet,Night without streetlights,High,Truck,61,Female,100,Minor,0,Low Visibility
+A10158,2024-02-12,07:09,Barr Union,Clear,Wet,Night with streetlights,High,Truck,68,Female,95,Minor,0,Mechanical Failure
+A10159,2024-02-09,14:12,Crystal Burgs,Clear,Wet,Night with streetlights,Medium,Car,21,Female,56,Minor,0,Speeding
+A10160,2023-12-29,07:39,Barnes Parks,Snow,Wet,Night without streetlights,High,Motorcycle,75,Male,77,Fatal,4,Drunk Driving
+A10161,2023-06-07,10:19,Kevin Valleys,Fog,Snowy,Night with streetlights,High,Car,21,Female,33,Serious,2,Speeding
+A10162,2023-05-24,00:51,John Junctions,Rainy,Dry,Daylight,High,Truck,46,Male,66,Minor,0,Weather
+A10163,2024-07-08,10:23,Garcia Stravenue,Snow,Wet,Night with streetlights,High,Motorcycle,21,Female,28,Minor,0,Mechanical Failure
+A10164,2025-01-19,23:39,Lam Stream,Snow,Wet,Night with streetlights,High,Motorcycle,56,Male,62,Minor,0,Drunk Driving
+A10165,2023-08-09,23:22,Aaron Flat,Fog,Wet,Night without streetlights,High,Motorcycle,43,Male,96,Serious,0,Weather
+A10166,2024-04-13,03:21,Griffith Plain,Snow,Snowy,Night with streetlights,Low,Motorcycle,62,Male,102,Minor,0,Mechanical Failure
+A10167,2024-10-11,13:20,Charles Mission,Fog,Dry,Night with streetlights,Medium,Car,31,Female,118,Minor,0,Drunk Driving
+A10168,2025-01-27,08:16,Lamb Port,Rainy,Dry,Daylight,Medium,Car,50,Male,104,Minor,0,Mechanical Failure
+A10169,2024-05-19,05:50,Walker Walks,Rainy,Snowy,Night with streetlights,Low,Car,29,Male,112,Minor,0,Low Visibility
+A10170,2025-03-22,02:17,Richardson Springs,Fog,Snowy,Night without streetlights,Low,Truck,57,Female,116,Serious,3,Drunk Driving
+A10171,2025-04-03,10:07,James Port,Rainy,Wet,Night with streetlights,Low,Truck,61,Female,79,Serious,3,Mechanical Failure
+A10172,2023-12-21,02:59,Jeremy Union,Snow,Dry,Daylight,High,Car,73,Female,26,Minor,0,Weather
+A10173,2024-06-16,20:34,Susan Run,Clear,Snowy,Night without streetlights,Low,Truck,23,Male,54,Minor,0,Mechanical Failure
+A10174,2024-01-08,02:49,Morgan Unions,Rainy,Wet,Daylight,Low,Truck,74,Female,23,Minor,0,Low Visibility
+A10175,2024-04-10,00:59,Kelly Summit,Fog,Dry,Night with streetlights,Low,Truck,32,Male,60,Fatal,5,Weather
+A10176,2024-06-20,00:36,Anderson Islands,Rainy,Dry,Daylight,Medium,Truck,62,Male,117,Serious,3,Mechanical Failure
+A10177,2024-05-29,21:28,Jennifer Gateway,Clear,Dry,Daylight,Medium,Car,71,Male,90,Fatal,4,Mechanical Failure
+A10178,2025-01-11,04:21,Maxwell Parkways,Snow,Dry,Night with streetlights,Low,Truck,25,Male,50,Minor,0,Mechanical Failure
+A10179,2023-06-15,02:14,Megan Landing,Snow,Dry,Daylight,Medium,Motorcycle,52,Male,100,Minor,0,Drunk Driving
+A10180,2024-05-28,05:32,Andrew Street,Rainy,Wet,Night with streetlights,Low,Motorcycle,40,Male,93,Minor,0,Speeding
+A10181,2024-07-21,03:45,Hall Route,Fog,Dry,Night without streetlights,High,Motorcycle,68,Male,69,Serious,0,Low Visibility
+A10182,2023-11-19,04:46,Judy Plains,Fog,Wet,Night without streetlights,Low,Truck,68,Male,64,Minor,0,Speeding
+A10183,2025-03-20,02:38,Melinda Hollow,Fog,Dry,Daylight,Medium,Motorcycle,39,Male,119,Minor,0,Low Visibility
+A10184,2024-06-29,13:08,Justin Orchard,Rainy,Dry,Daylight,High,Truck,20,Female,45,Minor,0,Drunk Driving
+A10185,2025-05-02,20:03,Mcfarland Mall,Clear,Wet,Night with streetlights,High,Truck,70,Female,52,Minor,0,Drunk Driving
+A10186,2024-11-14,13:40,Fernando Via,Fog,Wet,Daylight,High,Truck,35,Male,67,Minor,0,Low Visibility
+A10187,2024-07-23,07:12,Kelly Pine,Snow,Wet,Night with streetlights,Low,Truck,62,Female,67,Fatal,4,Weather
+A10188,2024-08-01,23:35,Valdez Trail,Clear,Snowy,Night with streetlights,Low,Truck,56,Male,89,Minor,0,Speeding
+A10189,2024-12-13,20:05,Hodges Tunnel,Clear,Wet,Night without streetlights,Medium,Truck,46,Female,41,Minor,0,Weather
+A10190,2024-12-30,18:20,Andrea Village,Snow,Dry,Night without streetlights,Medium,Motorcycle,45,Female,101,Fatal,0,Speeding
+A10191,2023-11-22,19:44,Shah Mountains,Snow,Wet,Night without streetlights,High,Motorcycle,28,Male,38,Serious,5,Low Visibility
+A10192,2024-04-17,07:09,Hatfield Lodge,Clear,Dry,Daylight,Low,Motorcycle,41,Female,69,Fatal,0,Mechanical Failure
+A10193,2024-01-20,02:57,Kathy Stream,Rainy,Snowy,Night with streetlights,Medium,Truck,46,Male,93,Minor,0,Weather
+A10194,2024-07-07,01:58,Dean Forges,Snow,Wet,Night without streetlights,Medium,Car,25,Male,114,Minor,0,Mechanical Failure
+A10195,2023-07-26,22:28,Mills Meadows,Snow,Snowy,Daylight,Medium,Truck,63,Female,47,Fatal,2,Low Visibility
+A10196,2023-06-16,19:04,Colon Road,Rainy,Dry,Daylight,Low,Truck,29,Female,31,Serious,2,Weather
+A10197,2023-12-17,03:39,William Plain,Clear,Snowy,Night without streetlights,Medium,Truck,72,Male,111,Serious,5,Drunk Driving
+A10198,2025-04-16,12:14,Baldwin Fall,Fog,Snowy,Daylight,Low,Car,68,Male,50,Serious,0,Weather
+A10199,2024-07-02,19:29,Dixon Forges,Fog,Wet,Night without streetlights,Low,Motorcycle,74,Male,28,Minor,0,Low Visibility
+A10200,2025-01-09,06:03,Zachary Harbor,Snow,Wet,Night without streetlights,Low,Car,38,Male,77,Minor,0,Mechanical Failure
+A10201,2023-07-22,01:05,Evans Ferry,Fog,Dry,Night without streetlights,High,Motorcycle,29,Male,75,Minor,0,Speeding
+A10202,2025-03-18,23:20,Ross Underpass,Clear,Snowy,Daylight,Medium,Car,28,Female,110,Minor,0,Mechanical Failure
+A10203,2025-01-22,12:04,Hall Center,Fog,Dry,Night with streetlights,Low,Motorcycle,53,Female,36,Minor,0,Mechanical Failure
+A10204,2023-10-24,14:50,Mcmahon Drive,Clear,Snowy,Night without streetlights,Low,Motorcycle,55,Male,41,Minor,0,Mechanical Failure
+A10205,2023-12-08,12:56,Contreras Station,Fog,Snowy,Daylight,Low,Car,20,Female,103,Minor,0,Mechanical Failure
+A10206,2024-04-04,12:01,Garcia Center,Snow,Snowy,Night without streetlights,Low,Truck,74,Female,102,Fatal,3,Drunk Driving
+A10207,2023-10-20,12:44,Wong Glen,Snow,Wet,Night with streetlights,Low,Motorcycle,21,Male,76,Minor,0,Low Visibility
+A10208,2023-07-09,22:48,Christine Streets,Rainy,Wet,Night without streetlights,Low,Truck,73,Female,113,Fatal,2,Low Visibility
+A10209,2024-10-20,13:14,Fernandez Fields,Rainy,Wet,Night without streetlights,High,Car,38,Male,79,Minor,0,Low Visibility
+A10210,2024-10-23,15:26,Soto Neck,Rainy,Dry,Daylight,Low,Truck,42,Female,51,Fatal,1,Weather
+A10211,2023-05-15,05:42,Robert Knolls,Fog,Dry,Daylight,Medium,Motorcycle,47,Female,59,Minor,0,Speeding
+A10212,2023-08-04,10:17,Brown Locks,Snow,Snowy,Night with streetlights,Low,Car,55,Female,26,Minor,0,Low Visibility
+A10213,2023-08-19,09:06,Gill Orchard,Snow,Wet,Night without streetlights,Low,Car,45,Male,53,Serious,3,Weather
+A10214,2024-07-20,06:52,Hill Fields,Clear,Wet,Daylight,High,Motorcycle,30,Female,90,Minor,0,Low Visibility
+A10215,2024-09-12,13:02,Mark Expressway,Snow,Snowy,Night with streetlights,High,Motorcycle,57,Male,36,Fatal,3,Weather
+A10216,2024-01-11,11:52,Wood Plain,Fog,Snowy,Night with streetlights,Low,Car,56,Female,84,Minor,0,Speeding
+A10217,2024-08-12,12:20,Lee Ports,Rainy,Snowy,Night with streetlights,Medium,Motorcycle,47,Male,97,Serious,1,Weather
+A10218,2023-05-26,21:53,Moreno Shores,Fog,Dry,Night with streetlights,High,Motorcycle,71,Female,95,Minor,0,Mechanical Failure
+A10219,2024-03-27,20:31,Price Valley,Snow,Snowy,Night without streetlights,Medium,Truck,70,Male,67,Minor,0,Speeding
+A10220,2025-03-02,18:20,Tucker Place,Snow,Snowy,Night with streetlights,High,Motorcycle,58,Male,96,Minor,0,Mechanical Failure
+A10221,2024-11-07,16:55,Jacob Mission,Rainy,Snowy,Daylight,High,Truck,28,Female,38,Serious,1,Speeding
+A10222,2024-11-23,19:17,Powell Drives,Clear,Dry,Daylight,Medium,Truck,44,Male,72,Minor,0,Low Visibility
+A10223,2025-03-11,05:03,Chavez Stravenue,Snow,Snowy,Night without streetlights,Low,Motorcycle,26,Male,91,Minor,0,Low Visibility
+A10224,2025-03-29,05:01,Palmer Harbors,Snow,Wet,Daylight,Medium,Motorcycle,39,Female,106,Serious,5,Weather
+A10225,2024-08-07,04:36,Perez Rapids,Snow,Dry,Daylight,Medium,Motorcycle,37,Male,58,Serious,5,Drunk Driving
+A10226,2023-11-20,00:53,Tammy Hills,Snow,Wet,Night with streetlights,Medium,Motorcycle,68,Female,56,Minor,0,Mechanical Failure
+A10227,2023-07-03,04:54,Hurst Haven,Snow,Wet,Night with streetlights,Low,Truck,20,Female,111,Minor,0,Low Visibility
+A10228,2023-06-25,06:20,Lopez Trail,Fog,Snowy,Night with streetlights,Low,Car,70,Female,91,Minor,0,Drunk Driving
+A10229,2023-10-29,20:29,Kennedy Overpass,Clear,Snowy,Night without streetlights,High,Car,33,Male,105,Fatal,1,Drunk Driving
+A10230,2023-06-08,04:32,Bell Drives,Clear,Dry,Night with streetlights,Medium,Motorcycle,48,Male,107,Serious,0,Mechanical Failure
+A10231,2023-10-18,18:32,Ashlee Lights,Rainy,Wet,Night without streetlights,Medium,Truck,59,Male,116,Fatal,2,Weather
+A10232,2025-04-12,19:47,Kimberly Lakes,Clear,Dry,Night without streetlights,High,Car,52,Male,42,Minor,0,Drunk Driving
+A10233,2024-05-12,15:49,Allen Hills,Clear,Wet,Night with streetlights,Low,Motorcycle,73,Female,24,Minor,0,Mechanical Failure
+A10234,2025-05-04,13:42,Chase Garden,Clear,Wet,Night with streetlights,Medium,Motorcycle,52,Female,37,Serious,3,Weather
+A10235,2024-10-13,12:20,James Track,Rainy,Dry,Night with streetlights,Low,Motorcycle,47,Female,111,Minor,0,Weather
+A10236,2024-05-27,23:29,Jenna Squares,Fog,Snowy,Night without streetlights,Low,Car,57,Female,74,Minor,0,Speeding
+A10237,2023-05-22,06:39,Aguirre Orchard,Snow,Snowy,Daylight,Low,Car,48,Female,51,Minor,0,Low Visibility
+A10238,2025-01-29,19:40,Robert Wells,Rainy,Wet,Night with streetlights,Medium,Truck,55,Male,53,Minor,0,Drunk Driving
+A10239,2024-01-17,06:26,Walker Landing,Clear,Snowy,Daylight,Medium,Truck,28,Female,107,Minor,0,Weather
+A10240,2024-12-21,00:04,Lane Ferry,Clear,Snowy,Night with streetlights,Medium,Motorcycle,32,Male,37,Minor,0,Low Visibility
+A10241,2024-05-28,17:13,Lindsey Parkways,Fog,Wet,Night without streetlights,High,Truck,66,Male,117,Minor,0,Mechanical Failure
+A10242,2023-12-15,22:27,King Islands,Clear,Snowy,Night with streetlights,High,Motorcycle,41,Male,92,Minor,0,Mechanical Failure
+A10243,2023-12-12,11:30,Andrea Forge,Rainy,Snowy,Night without streetlights,Low,Car,38,Female,34,Minor,0,Mechanical Failure
+A10244,2024-09-22,18:24,Robinson Expressway,Snow,Dry,Night without streetlights,Medium,Car,47,Male,85,Minor,0,Mechanical Failure
+A10245,2025-04-10,15:43,Glover Motorway,Clear,Snowy,Night with streetlights,High,Truck,64,Male,70,Minor,0,Speeding
+A10246,2023-07-20,13:44,Isabella Falls,Rainy,Snowy,Daylight,Low,Truck,40,Male,89,Fatal,0,Low Visibility
+A10247,2024-09-06,16:31,Alexander Loaf,Clear,Wet,Night with streetlights,Low,Car,67,Female,67,Fatal,3,Low Visibility
+A10248,2023-07-30,14:03,Williams Prairie,Snow,Wet,Daylight,High,Motorcycle,73,Male,103,Serious,0,Drunk Driving
+A10249,2024-03-24,01:49,John Ridges,Snow,Snowy,Daylight,High,Car,71,Male,116,Minor,0,Weather
+A10250,2025-03-22,07:35,Kimberly Inlet,Snow,Snowy,Night without streetlights,High,Truck,52,Female,49,Minor,0,Weather
+A10251,2025-03-20,02:28,Joseph Hills,Rainy,Wet,Daylight,High,Car,20,Female,98,Serious,0,Drunk Driving
+A10252,2024-02-14,05:59,Debra Orchard,Rainy,Dry,Daylight,High,Car,46,Male,51,Serious,3,Low Visibility
+A10253,2023-05-24,14:44,Romero Forest,Rainy,Snowy,Daylight,Low,Car,50,Female,49,Serious,5,Mechanical Failure
+A10254,2024-01-31,15:45,Hernandez Harbor,Fog,Snowy,Night without streetlights,High,Truck,33,Female,38,Fatal,4,Drunk Driving
+A10255,2025-01-09,06:09,Austin Extension,Snow,Wet,Night with streetlights,Low,Motorcycle,55,Male,100,Minor,0,Mechanical Failure
+A10256,2024-08-05,13:57,Ruben Crossing,Snow,Dry,Night with streetlights,High,Motorcycle,42,Female,109,Minor,0,Drunk Driving
+A10257,2024-12-27,01:02,Gray Valleys,Fog,Wet,Daylight,High,Truck,33,Male,58,Serious,1,Low Visibility
+A10258,2024-09-12,09:13,Jessica Flat,Clear,Snowy,Night with streetlights,Medium,Motorcycle,51,Male,69,Minor,0,Drunk Driving
+A10259,2023-08-29,04:00,Douglas Groves,Fog,Snowy,Daylight,Medium,Truck,23,Male,26,Minor,0,Mechanical Failure
+A10260,2023-08-11,02:33,Stacie Via,Clear,Dry,Daylight,High,Motorcycle,60,Male,81,Minor,0,Weather
+A10261,2025-01-16,23:15,Edward Roads,Fog,Dry,Daylight,Low,Motorcycle,25,Female,51,Minor,0,Drunk Driving
+A10262,2024-07-20,22:35,Thompson Trail,Snow,Dry,Night without streetlights,Medium,Truck,42,Female,88,Minor,0,Weather
+A10263,2024-02-14,01:26,Evans Flats,Fog,Wet,Night without streetlights,Medium,Truck,24,Female,117,Serious,1,Weather
+A10264,2023-06-22,05:36,Blake Estates,Fog,Wet,Daylight,High,Car,65,Male,22,Minor,0,Mechanical Failure
+A10265,2024-08-18,02:12,Gonzalez Station,Snow,Wet,Daylight,Low,Truck,32,Female,92,Serious,3,Mechanical Failure
+A10266,2023-07-11,14:29,William Extension,Fog,Wet,Night with streetlights,High,Motorcycle,65,Female,78,Minor,0,Weather
+A10267,2025-04-14,05:03,Melton Grove,Rainy,Dry,Night without streetlights,High,Truck,29,Male,87,Minor,0,Speeding
+A10268,2023-12-04,06:04,Smith Ville,Clear,Dry,Night with streetlights,Low,Motorcycle,32,Male,110,Minor,0,Drunk Driving
+A10269,2024-01-06,04:33,Carr Overpass,Snow,Wet,Daylight,High,Motorcycle,60,Female,104,Minor,0,Speeding
+A10270,2024-11-11,14:05,Curtis Row,Snow,Dry,Daylight,High,Motorcycle,35,Female,22,Minor,0,Low Visibility
+A10271,2023-11-24,13:10,Brian Spur,Rainy,Dry,Daylight,High,Car,33,Male,99,Minor,0,Weather
+A10272,2024-03-24,08:24,Nunez Knoll,Fog,Wet,Daylight,Medium,Truck,47,Male,109,Minor,0,Speeding
+A10273,2024-09-25,09:01,Michael Route,Clear,Dry,Night with streetlights,Medium,Truck,53,Female,27,Minor,0,Drunk Driving
+A10274,2023-10-04,20:30,Melissa Union,Clear,Wet,Night with streetlights,High,Truck,54,Male,87,Fatal,1,Drunk Driving
+A10275,2024-07-07,18:36,Ford Fort,Snow,Wet,Daylight,Low,Motorcycle,35,Male,42,Fatal,2,Speeding
+A10276,2024-07-07,23:40,Smith Trail,Rainy,Snowy,Daylight,High,Truck,22,Female,40,Minor,0,Mechanical Failure
+A10277,2024-08-20,19:56,Eric Mountain,Snow,Snowy,Night without streetlights,Medium,Truck,66,Male,108,Serious,4,Weather
+A10278,2024-02-18,21:48,Miller Knoll,Clear,Dry,Night with streetlights,Low,Car,39,Female,119,Minor,0,Weather
+A10279,2023-09-16,11:16,Wilson Skyway,Snow,Wet,Daylight,Medium,Motorcycle,42,Female,43,Minor,0,Low Visibility
+A10280,2023-05-22,17:23,Allen Islands,Clear,Snowy,Night with streetlights,Low,Motorcycle,22,Male,54,Minor,0,Drunk Driving
+A10281,2023-05-28,22:06,Christopher Mountain,Snow,Wet,Night with streetlights,Low,Car,18,Female,76,Minor,0,Weather
+A10282,2025-01-13,11:33,Diane Point,Clear,Dry,Daylight,Low,Truck,46,Female,33,Minor,0,Weather
+A10283,2024-01-07,09:24,Potts Expressway,Clear,Snowy,Night without streetlights,Medium,Truck,18,Female,72,Minor,0,Speeding
+A10284,2025-04-20,22:32,Stephens Streets,Rainy,Snowy,Night without streetlights,Low,Motorcycle,42,Male,37,Minor,0,Weather
+A10285,2024-03-05,05:10,Kirk Shoal,Snow,Dry,Daylight,Low,Truck,35,Female,58,Minor,0,Speeding
+A10286,2023-07-31,12:35,Walker Prairie,Fog,Wet,Daylight,High,Motorcycle,49,Male,78,Minor,0,Weather
+A10287,2023-10-17,23:05,Olsen Skyway,Clear,Wet,Night with streetlights,High,Truck,69,Female,76,Minor,0,Mechanical Failure
+A10288,2025-03-31,23:35,Harris Isle,Rainy,Wet,Night with streetlights,High,Motorcycle,30,Female,60,Minor,0,Low Visibility
+A10289,2025-02-21,14:48,Lauren Key,Fog,Wet,Night without streetlights,High,Motorcycle,49,Male,61,Minor,0,Low Visibility
+A10290,2024-12-10,06:22,Berry Cliff,Fog,Dry,Night without streetlights,Low,Motorcycle,52,Male,107,Serious,0,Low Visibility
+A10291,2025-05-03,18:00,Eric Pike,Rainy,Wet,Night with streetlights,High,Car,70,Female,106,Minor,0,Weather
+A10292,2023-10-29,08:35,Morgan Shoals,Rainy,Wet,Night without streetlights,Low,Motorcycle,45,Female,29,Minor,0,Mechanical Failure
+A10293,2023-06-30,21:47,Donald Stream,Snow,Snowy,Night with streetlights,High,Motorcycle,73,Female,89,Minor,0,Weather
+A10294,2024-03-31,14:35,Paula Junction,Clear,Dry,Daylight,High,Motorcycle,40,Male,102,Minor,0,Mechanical Failure
+A10295,2024-01-27,22:10,Holder Camp,Snow,Wet,Night with streetlights,Low,Car,24,Female,48,Minor,0,Mechanical Failure
+A10296,2024-12-09,16:00,Greer Light,Rainy,Wet,Night with streetlights,Medium,Truck,67,Male,64,Fatal,3,Speeding
+A10297,2024-03-30,12:54,Mitchell Freeway,Fog,Wet,Daylight,Low,Motorcycle,27,Female,59,Minor,0,Drunk Driving
+A10298,2024-06-26,04:07,Nolan Forge,Snow,Wet,Night with streetlights,Low,Truck,64,Female,60,Minor,0,Speeding
+A10299,2025-04-22,21:18,Adam Springs,Clear,Dry,Night with streetlights,High,Car,61,Male,114,Minor,0,Drunk Driving
+A10300,2024-01-18,19:48,Henry Estate,Rainy,Wet,Night without streetlights,Medium,Truck,32,Female,100,Minor,0,Low Visibility
+A10301,2024-01-01,11:48,Amy Square,Snow,Dry,Night without streetlights,High,Car,46,Female,69,Minor,0,Drunk Driving
+A10302,2023-06-19,22:02,Holly Viaduct,Rainy,Wet,Night without streetlights,Low,Motorcycle,24,Male,66,Minor,0,Low Visibility
+A10303,2023-09-02,11:58,Alexander Crossroad,Clear,Wet,Night without streetlights,Medium,Motorcycle,58,Female,96,Minor,0,Low Visibility
+A10304,2024-06-30,07:50,Cervantes Ports,Clear,Wet,Night with streetlights,Medium,Motorcycle,29,Female,98,Minor,0,Drunk Driving
+A10305,2024-01-14,01:36,Sarah Path,Fog,Dry,Daylight,Medium,Car,29,Female,108,Minor,0,Low Visibility
+A10306,2023-09-21,07:11,Alvarez Shores,Snow,Snowy,Daylight,High,Truck,45,Male,82,Minor,0,Drunk Driving
+A10307,2023-12-17,17:58,Whitehead Springs,Rainy,Wet,Night with streetlights,Low,Car,38,Female,99,Minor,0,Weather
+A10308,2024-07-16,03:04,Turner Crest,Clear,Wet,Daylight,Low,Truck,53,Female,72,Minor,0,Low Visibility
+A10309,2023-09-04,14:00,Gregory Canyon,Snow,Wet,Daylight,Low,Motorcycle,19,Male,57,Minor,0,Drunk Driving
+A10310,2024-07-27,21:54,Shane Parkway,Fog,Dry,Night with streetlights,High,Motorcycle,67,Female,90,Minor,0,Mechanical Failure
+A10311,2024-11-22,01:48,Sara Knolls,Clear,Wet,Night without streetlights,Medium,Motorcycle,70,Male,117,Serious,4,Drunk Driving
+A10312,2023-05-21,17:53,John Fields,Snow,Dry,Night without streetlights,High,Car,37,Male,77,Minor,0,Speeding
+A10313,2025-01-12,00:51,Ralph Knolls,Snow,Dry,Daylight,Low,Motorcycle,55,Female,110,Minor,0,Low Visibility
+A10314,2023-10-23,14:16,Steele Inlet,Rainy,Snowy,Daylight,Low,Car,69,Male,92,Minor,0,Weather
+A10315,2023-11-15,14:36,Ashley Summit,Rainy,Wet,Night without streetlights,Medium,Truck,54,Female,85,Fatal,5,Speeding
+A10316,2024-06-10,22:12,Poole Place,Rainy,Wet,Daylight,Medium,Motorcycle,26,Male,51,Minor,0,Weather
+A10317,2025-01-15,22:05,Bennett Haven,Rainy,Snowy,Night with streetlights,Medium,Car,54,Female,100,Minor,0,Low Visibility
+A10318,2024-07-07,03:45,Rebecca Islands,Clear,Snowy,Daylight,Medium,Motorcycle,65,Female,108,Fatal,2,Low Visibility
+A10319,2024-03-29,19:19,Charles Forges,Snow,Wet,Night without streetlights,Low,Motorcycle,23,Female,101,Minor,0,Weather
+A10320,2024-07-24,18:56,Perez Village,Clear,Snowy,Night with streetlights,Low,Truck,70,Male,83,Minor,0,Weather
+A10321,2024-09-25,03:19,Taylor Burgs,Fog,Snowy,Night without streetlights,Low,Motorcycle,72,Female,120,Minor,0,Speeding
+A10322,2024-03-16,09:57,Carroll Union,Clear,Dry,Night without streetlights,Medium,Car,25,Male,76,Minor,0,Low Visibility
+A10323,2023-09-11,17:47,Reynolds Lights,Rainy,Snowy,Daylight,High,Truck,28,Female,31,Minor,0,Weather
+A10324,2024-04-14,17:31,Amy Rapids,Clear,Wet,Night without streetlights,High,Car,21,Female,100,Minor,0,Drunk Driving
+A10325,2024-07-18,21:45,Michelle Hill,Snow,Snowy,Daylight,High,Car,18,Male,81,Minor,0,Mechanical Failure
+A10326,2024-07-27,22:48,Cantrell Curve,Rainy,Snowy,Night without streetlights,Medium,Car,18,Female,35,Fatal,3,Drunk Driving
+A10327,2023-09-09,16:13,Barry Rapid,Snow,Dry,Daylight,Medium,Car,64,Male,33,Minor,0,Weather
+A10328,2023-11-07,10:17,Branch Mall,Rainy,Wet,Daylight,High,Motorcycle,27,Male,87,Minor,0,Mechanical Failure
+A10329,2024-05-22,11:55,Cordova Village,Rainy,Wet,Night with streetlights,High,Car,58,Male,72,Minor,0,Low Visibility
+A10330,2024-11-12,02:18,Collins Mall,Rainy,Dry,Daylight,Low,Car,55,Female,64,Fatal,2,Drunk Driving
+A10331,2024-10-08,20:07,Smith Square,Rainy,Wet,Night without streetlights,Low,Car,53,Female,119,Fatal,0,Weather
+A10332,2024-04-21,06:31,Tammy Mission,Rainy,Snowy,Night without streetlights,High,Car,65,Female,57,Minor,0,Drunk Driving
+A10333,2024-01-13,04:37,Jones Glens,Snow,Wet,Daylight,Low,Truck,58,Male,87,Serious,0,Weather
+A10334,2025-03-28,06:25,Ashley Plaza,Fog,Dry,Night with streetlights,High,Truck,41,Male,117,Minor,0,Speeding
+A10335,2024-10-24,12:33,Christine Estate,Clear,Snowy,Daylight,Low,Truck,31,Male,27,Fatal,3,Mechanical Failure
+A10336,2024-08-09,00:17,Smith Coves,Fog,Snowy,Night without streetlights,High,Truck,45,Female,30,Minor,0,Mechanical Failure
+A10337,2024-12-14,21:47,Sarah Terrace,Rainy,Wet,Daylight,Medium,Car,50,Male,39,Minor,0,Low Visibility
+A10338,2023-10-15,19:07,Ortiz Forge,Clear,Wet,Night without streetlights,Medium,Motorcycle,72,Male,27,Minor,0,Low Visibility
+A10339,2025-02-06,21:48,Williams Trail,Clear,Wet,Night without streetlights,High,Car,37,Male,35,Minor,0,Drunk Driving
+A10340,2025-03-26,08:32,Trujillo Greens,Clear,Dry,Night with streetlights,Medium,Motorcycle,51,Female,41,Minor,0,Weather
+A10341,2023-11-18,10:19,Benjamin Divide,Clear,Dry,Night with streetlights,Medium,Truck,51,Male,53,Serious,4,Speeding
+A10342,2023-12-02,14:25,Henderson Islands,Snow,Wet,Night without streetlights,Medium,Car,49,Male,67,Minor,0,Speeding
+A10343,2023-12-07,12:41,Ryan Causeway,Clear,Dry,Night without streetlights,High,Car,20,Male,51,Minor,0,Weather
+A10344,2024-10-04,06:26,Fisher Estates,Snow,Dry,Daylight,Low,Motorcycle,69,Female,48,Minor,0,Low Visibility
+A10345,2024-10-23,13:32,Eric Grove,Fog,Wet,Daylight,High,Truck,25,Male,42,Minor,0,Mechanical Failure
+A10346,2024-01-07,21:44,Avila Canyon,Clear,Wet,Daylight,Medium,Truck,67,Female,61,Minor,0,Low Visibility
+A10347,2023-10-24,20:57,Armstrong Drive,Clear,Wet,Daylight,Medium,Motorcycle,68,Female,114,Minor,0,Low Visibility
+A10348,2024-01-20,02:02,Scott Locks,Fog,Snowy,Night with streetlights,Low,Motorcycle,75,Male,39,Minor,0,Low Visibility
+A10349,2024-03-13,02:31,Baker Causeway,Clear,Dry,Night without streetlights,Medium,Motorcycle,71,Male,62,Minor,0,Low Visibility
+A10350,2023-12-19,13:24,Kim Oval,Fog,Dry,Daylight,High,Car,44,Female,27,Fatal,1,Weather
+A10351,2024-07-15,04:41,Joseph Shores,Clear,Dry,Daylight,High,Truck,62,Female,78,Fatal,0,Mechanical Failure
+A10352,2024-09-30,00:24,Martinez Plains,Clear,Snowy,Daylight,High,Truck,22,Male,75,Minor,0,Drunk Driving
+A10353,2024-04-16,01:34,Graham Light,Rainy,Wet,Night with streetlights,Medium,Truck,62,Female,60,Minor,0,Drunk Driving
+A10354,2024-10-26,16:47,Green Cliff,Clear,Dry,Daylight,High,Car,27,Male,41,Minor,0,Weather
+A10355,2023-05-27,06:42,Collier Manors,Snow,Dry,Night without streetlights,Medium,Car,46,Female,79,Minor,0,Speeding
+A10356,2025-05-04,11:02,Steven Spur,Clear,Dry,Night without streetlights,Medium,Motorcycle,62,Male,47,Serious,2,Drunk Driving
+A10357,2024-04-29,23:05,Swanson Prairie,Clear,Snowy,Daylight,Medium,Truck,50,Male,106,Minor,0,Drunk Driving
+A10358,2023-08-25,10:59,Green Pass,Clear,Wet,Night with streetlights,High,Motorcycle,53,Male,32,Minor,0,Drunk Driving
+A10359,2025-02-26,09:59,Medina Garden,Clear,Dry,Daylight,Low,Car,30,Female,67,Minor,0,Speeding
+A10360,2024-04-26,15:46,Stefanie Union,Fog,Dry,Daylight,Low,Car,75,Female,36,Minor,0,Weather
+A10361,2024-09-05,08:34,Boyle Mountain,Clear,Dry,Night with streetlights,Low,Car,54,Female,112,Minor,0,Speeding
+A10362,2023-07-04,18:31,Rodriguez Avenue,Snow,Snowy,Night with streetlights,Low,Truck,31,Male,55,Minor,0,Drunk Driving
+A10363,2025-03-08,07:00,Rebecca Passage,Clear,Snowy,Night without streetlights,High,Car,59,Female,83,Minor,0,Mechanical Failure
+A10364,2024-12-14,18:26,Nicole Point,Snow,Dry,Daylight,Medium,Truck,26,Female,45,Minor,0,Mechanical Failure
+A10365,2025-03-05,23:12,Valdez Place,Rainy,Snowy,Night without streetlights,Low,Truck,68,Female,81,Minor,0,Low Visibility
+A10366,2023-07-24,22:37,Adams Views,Fog,Snowy,Night without streetlights,Medium,Truck,35,Male,23,Minor,0,Drunk Driving
+A10367,2024-06-28,01:20,Jeremiah Shores,Clear,Wet,Daylight,Medium,Motorcycle,40,Male,40,Minor,0,Drunk Driving
+A10368,2024-10-03,22:46,Amber Manors,Fog,Snowy,Night without streetlights,Low,Car,54,Female,65,Fatal,1,Drunk Driving
+A10369,2024-02-26,20:08,Bautista Parkways,Rainy,Snowy,Night with streetlights,High,Motorcycle,40,Male,110,Serious,4,Mechanical Failure
+A10370,2024-08-12,08:43,Garcia Mission,Rainy,Snowy,Daylight,Medium,Motorcycle,37,Male,82,Minor,0,Speeding
+A10371,2025-03-14,10:29,Ronald Lights,Rainy,Snowy,Daylight,Low,Motorcycle,48,Male,62,Fatal,1,Drunk Driving
+A10372,2024-05-20,15:37,Alexander Dam,Fog,Snowy,Daylight,Medium,Car,19,Male,95,Serious,1,Speeding
+A10373,2023-05-11,02:38,Mason Drive,Fog,Dry,Night with streetlights,High,Motorcycle,43,Male,63,Minor,0,Drunk Driving
+A10374,2023-09-14,10:46,Kathleen Manors,Rainy,Snowy,Night with streetlights,High,Truck,59,Female,42,Serious,4,Mechanical Failure
+A10375,2025-03-20,03:14,Monica Harbors,Fog,Dry,Night without streetlights,High,Car,42,Female,113,Minor,0,Drunk Driving
+A10376,2023-07-20,14:44,Bradley Corners,Rainy,Snowy,Daylight,High,Motorcycle,43,Male,43,Minor,0,Mechanical Failure
+A10377,2025-03-13,10:39,Dawn Pines,Rainy,Snowy,Night without streetlights,Low,Truck,27,Female,115,Minor,0,Weather
+A10378,2023-06-27,00:46,Donald Harbors,Fog,Dry,Night without streetlights,Low,Motorcycle,60,Female,77,Minor,0,Drunk Driving
+A10379,2024-03-09,00:53,Sandoval Wall,Rainy,Snowy,Daylight,Medium,Truck,68,Male,112,Minor,0,Low Visibility
+A10380,2023-10-05,04:25,Valerie Cove,Snow,Snowy,Night with streetlights,Low,Truck,49,Female,64,Minor,0,Speeding
+A10381,2023-11-20,10:49,Woods Lock,Snow,Snowy,Night without streetlights,High,Car,28,Female,29,Serious,0,Weather
+A10382,2024-10-15,15:56,Sandra Mountains,Clear,Wet,Night with streetlights,Low,Car,39,Male,68,Minor,0,Speeding
+A10383,2023-08-18,00:30,Cindy Port,Clear,Wet,Night without streetlights,High,Truck,63,Male,75,Fatal,1,Mechanical Failure
+A10384,2024-06-12,15:22,Laura Mountain,Snow,Dry,Daylight,Low,Truck,31,Male,72,Minor,0,Mechanical Failure
+A10385,2023-08-27,16:13,Ruiz Plains,Fog,Snowy,Night with streetlights,Medium,Car,24,Male,70,Minor,0,Low Visibility
+A10386,2024-08-05,16:00,Schmidt Shore,Rainy,Dry,Night with streetlights,Low,Truck,23,Female,104,Minor,0,Low Visibility
+A10387,2024-11-03,22:06,Jennifer Centers,Rainy,Dry,Daylight,Low,Car,58,Female,30,Minor,0,Speeding
+A10388,2024-05-28,00:55,Lauren Forest,Fog,Wet,Night with streetlights,Medium,Motorcycle,34,Male,102,Minor,0,Drunk Driving
+A10389,2025-04-26,08:35,Katrina Trace,Fog,Wet,Night with streetlights,Low,Truck,20,Female,76,Minor,0,Drunk Driving
+A10390,2025-01-10,09:57,Clark Union,Fog,Snowy,Daylight,Low,Motorcycle,60,Male,30,Minor,0,Mechanical Failure
+A10391,2023-09-20,02:28,Benson Ford,Snow,Snowy,Daylight,High,Car,71,Female,86,Minor,0,Mechanical Failure
+A10392,2024-05-28,12:07,Haley Knoll,Snow,Snowy,Daylight,Medium,Truck,23,Female,111,Minor,0,Mechanical Failure
+A10393,2023-10-14,14:32,Snyder Plains,Rainy,Dry,Night with streetlights,Low,Car,31,Male,36,Minor,0,Speeding
+A10394,2024-05-17,08:08,Victor Garden,Snow,Dry,Night without streetlights,Low,Motorcycle,34,Female,113,Fatal,0,Speeding
+A10395,2023-08-17,22:09,Escobar Mews,Snow,Snowy,Night with streetlights,High,Truck,72,Female,86,Minor,0,Speeding
+A10396,2023-10-02,12:12,Gonzalez Fall,Snow,Dry,Night with streetlights,Low,Car,54,Male,33,Minor,0,Speeding
+A10397,2024-05-23,06:17,Hays Mountains,Fog,Snowy,Night with streetlights,Medium,Truck,42,Female,93,Minor,0,Speeding
+A10398,2025-01-29,17:20,Gina Parks,Rainy,Wet,Night with streetlights,Low,Motorcycle,56,Female,24,Minor,0,Weather
+A10399,2023-07-16,00:20,Daniel Tunnel,Rainy,Dry,Night without streetlights,Medium,Truck,75,Female,22,Minor,0,Weather
+A10400,2023-09-24,17:21,Sandoval Parkway,Fog,Wet,Night with streetlights,High,Motorcycle,24,Male,37,Minor,0,Low Visibility
+A10401,2025-03-15,17:12,Wilcox Squares,Fog,Wet,Night without streetlights,Medium,Motorcycle,59,Male,44,Minor,0,Low Visibility
+A10402,2023-10-03,05:13,Alicia Terrace,Snow,Snowy,Night with streetlights,Low,Motorcycle,68,Male,28,Minor,0,Mechanical Failure
+A10403,2024-07-29,00:48,Charles Ports,Snow,Dry,Night without streetlights,High,Car,29,Male,45,Serious,1,Speeding
+A10404,2024-03-01,14:44,Solis Corner,Snow,Dry,Night with streetlights,High,Car,35,Female,79,Minor,0,Speeding
+A10405,2024-06-25,00:39,Nathan Station,Clear,Dry,Night with streetlights,Medium,Motorcycle,46,Male,80,Minor,0,Weather
+A10406,2023-12-05,16:43,Kathryn Mountain,Fog,Dry,Night with streetlights,High,Motorcycle,23,Female,23,Minor,0,Drunk Driving
+A10407,2024-04-09,17:02,Colton Well,Rainy,Dry,Night without streetlights,Low,Motorcycle,31,Female,103,Minor,0,Speeding
+A10408,2024-03-01,08:28,Martin View,Clear,Wet,Daylight,High,Car,56,Male,48,Minor,0,Weather
+A10409,2024-07-20,03:07,Janice Drive,Fog,Wet,Night with streetlights,Medium,Truck,34,Male,79,Minor,0,Mechanical Failure
+A10410,2023-12-02,05:42,Johnson Row,Snow,Snowy,Daylight,Low,Motorcycle,60,Female,91,Minor,0,Mechanical Failure
+A10411,2025-03-13,00:33,Mark Harbor,Fog,Wet,Night without streetlights,Low,Truck,22,Female,55,Minor,0,Weather
+A10412,2023-08-26,09:46,Freeman Turnpike,Fog,Snowy,Night without streetlights,High,Truck,30,Male,86,Serious,0,Mechanical Failure
+A10413,2023-07-01,02:16,Myers Shores,Snow,Snowy,Night with streetlights,High,Car,64,Male,103,Minor,0,Weather
+A10414,2023-12-22,01:56,Terri Forges,Fog,Wet,Night with streetlights,Medium,Motorcycle,20,Male,63,Serious,1,Mechanical Failure
+A10415,2024-11-29,12:57,Jacob Garden,Snow,Snowy,Night with streetlights,High,Truck,72,Male,104,Serious,1,Weather
+A10416,2024-01-16,16:36,Thomas Station,Clear,Wet,Daylight,High,Truck,64,Male,107,Serious,5,Speeding
+A10417,2025-03-30,16:29,Brandy Fords,Rainy,Wet,Daylight,High,Truck,44,Female,67,Minor,0,Weather
+A10418,2025-01-02,19:11,Ortiz Heights,Snow,Dry,Night with streetlights,Low,Motorcycle,55,Male,80,Serious,4,Speeding
+A10419,2024-08-08,12:29,Rice Roads,Snow,Snowy,Night with streetlights,Medium,Car,73,Male,37,Fatal,2,Low Visibility
+A10420,2024-06-01,16:52,Parks Mission,Snow,Dry,Night with streetlights,High,Car,67,Male,82,Minor,0,Drunk Driving
+A10421,2025-01-08,07:35,Rose Fall,Fog,Snowy,Daylight,Low,Truck,35,Male,117,Serious,4,Drunk Driving
+A10422,2025-02-02,05:23,Werner Shores,Snow,Dry,Daylight,High,Truck,58,Female,71,Minor,0,Low Visibility
+A10423,2023-07-02,09:20,Shelly Glen,Snow,Dry,Daylight,High,Car,64,Female,21,Serious,4,Drunk Driving
+A10424,2024-05-29,10:30,Tommy Haven,Clear,Snowy,Daylight,High,Motorcycle,33,Male,108,Serious,2,Drunk Driving
+A10425,2024-12-29,13:22,Richard Mews,Clear,Wet,Night without streetlights,High,Truck,28,Male,25,Minor,0,Weather
+A10426,2025-01-30,16:39,Boyd Groves,Snow,Snowy,Night without streetlights,High,Motorcycle,39,Female,107,Fatal,2,Low Visibility
+A10427,2023-08-22,03:08,Martinez Rest,Fog,Dry,Daylight,Medium,Car,32,Male,113,Fatal,1,Speeding
+A10428,2023-10-26,00:40,Christopher Squares,Rainy,Dry,Night with streetlights,High,Motorcycle,68,Male,68,Serious,2,Mechanical Failure
+A10429,2024-07-31,08:24,Aguilar Roads,Clear,Snowy,Daylight,High,Car,59,Male,26,Minor,0,Low Visibility
+A10430,2024-12-15,18:38,Gutierrez Lodge,Snow,Wet,Daylight,High,Truck,48,Male,46,Minor,0,Speeding
+A10431,2024-07-13,09:41,Melissa Islands,Fog,Wet,Night without streetlights,Low,Motorcycle,51,Female,99,Minor,0,Drunk Driving
+A10432,2023-12-18,09:57,Williams Field,Snow,Dry,Night without streetlights,High,Motorcycle,25,Female,34,Serious,3,Drunk Driving
+A10433,2023-10-18,00:06,Brian Trafficway,Rainy,Wet,Night without streetlights,Low,Truck,63,Female,57,Minor,0,Mechanical Failure
+A10434,2024-10-21,23:47,Paul Falls,Snow,Dry,Night without streetlights,Medium,Truck,33,Male,21,Minor,0,Speeding
+A10435,2023-07-25,02:38,Stephanie Branch,Snow,Dry,Daylight,High,Car,64,Male,52,Minor,0,Low Visibility
+A10436,2023-05-28,04:42,Denise Inlet,Fog,Wet,Night with streetlights,Low,Car,70,Male,25,Serious,2,Weather
+A10437,2024-09-05,14:01,Cooper Drives,Snow,Snowy,Daylight,Low,Car,18,Male,104,Minor,0,Weather
+A10438,2023-05-18,17:50,James Centers,Fog,Wet,Night without streetlights,Medium,Motorcycle,23,Female,63,Minor,0,Low Visibility
+A10439,2024-02-15,17:02,Lori Springs,Snow,Wet,Night with streetlights,Medium,Motorcycle,72,Female,73,Minor,0,Drunk Driving
+A10440,2024-03-07,16:00,Lang Bypass,Clear,Dry,Night without streetlights,High,Car,72,Male,33,Minor,0,Mechanical Failure
+A10441,2024-08-08,15:42,Kyle Plaza,Snow,Snowy,Night without streetlights,Medium,Car,57,Female,119,Minor,0,Speeding
+A10442,2024-09-15,02:20,Patrick Field,Rainy,Wet,Night with streetlights,Low,Truck,46,Male,28,Minor,0,Weather
+A10443,2023-10-20,23:19,Kevin Field,Clear,Snowy,Night without streetlights,High,Motorcycle,54,Male,105,Serious,4,Mechanical Failure
+A10444,2023-05-19,17:26,Gaines Summit,Clear,Wet,Night without streetlights,High,Car,48,Female,104,Minor,0,Low Visibility
+A10445,2023-08-20,17:50,Taylor Green,Rainy,Snowy,Night without streetlights,Low,Car,59,Male,84,Serious,3,Drunk Driving
+A10446,2024-07-25,18:42,Taylor Prairie,Clear,Wet,Night with streetlights,Low,Truck,35,Male,84,Minor,0,Low Visibility
+A10447,2024-10-21,06:09,Sherry Glen,Snow,Dry,Daylight,Medium,Truck,69,Female,31,Serious,3,Weather
+A10448,2024-01-22,11:12,Stewart Pass,Clear,Wet,Night without streetlights,High,Car,24,Female,72,Minor,0,Mechanical Failure
+A10449,2024-08-15,23:40,White Light,Clear,Dry,Night without streetlights,High,Motorcycle,37,Male,103,Minor,0,Weather
+A10450,2024-08-24,10:34,Ayers Circle,Fog,Dry,Daylight,Medium,Truck,53,Female,111,Minor,0,Low Visibility
+A10451,2024-04-27,01:18,Monica Square,Clear,Dry,Night without streetlights,Low,Car,39,Female,101,Fatal,2,Mechanical Failure
+A10452,2023-06-05,16:11,Benjamin Summit,Fog,Snowy,Daylight,Low,Car,49,Male,111,Serious,3,Speeding
+A10453,2023-12-30,13:20,Mccarty Prairie,Fog,Snowy,Daylight,Low,Car,72,Female,47,Minor,0,Drunk Driving
+A10454,2023-09-17,06:05,Timothy Square,Fog,Dry,Night with streetlights,Low,Motorcycle,71,Male,118,Serious,3,Mechanical Failure
+A10455,2024-12-26,06:36,Shirley Stream,Rainy,Wet,Daylight,High,Motorcycle,21,Female,94,Minor,0,Mechanical Failure
+A10456,2023-09-15,04:51,Shari Neck,Rainy,Snowy,Night without streetlights,Low,Motorcycle,70,Male,33,Minor,0,Mechanical Failure
+A10457,2025-03-14,14:26,Sophia Dale,Fog,Snowy,Night with streetlights,Medium,Motorcycle,62,Male,55,Minor,0,Weather
+A10458,2024-11-17,11:15,Thompson Port,Fog,Wet,Daylight,Low,Truck,56,Female,109,Minor,0,Weather
+A10459,2024-03-26,18:28,Mcdonald Crescent,Rainy,Dry,Daylight,High,Motorcycle,36,Female,106,Minor,0,Drunk Driving
+A10460,2025-02-23,18:43,Samuel Street,Fog,Snowy,Daylight,Medium,Motorcycle,48,Female,106,Serious,4,Weather
+A10461,2023-12-14,09:33,Darryl Extensions,Snow,Dry,Night without streetlights,Low,Car,42,Male,26,Minor,0,Drunk Driving
+A10462,2024-11-11,00:05,Scott Plaza,Fog,Dry,Night with streetlights,High,Truck,27,Male,108,Serious,1,Mechanical Failure
+A10463,2023-07-27,02:09,Chung Rest,Clear,Wet,Night with streetlights,Low,Motorcycle,73,Male,115,Minor,0,Low Visibility
+A10464,2024-02-19,09:01,Wagner Isle,Rainy,Snowy,Night without streetlights,Medium,Motorcycle,60,Male,68,Minor,0,Weather
+A10465,2023-11-08,21:58,Gardner Stream,Clear,Dry,Night without streetlights,Medium,Car,57,Female,48,Fatal,5,Weather
+A10466,2025-01-31,02:15,Martinez Canyon,Rainy,Snowy,Daylight,Medium,Truck,29,Male,43,Fatal,5,Mechanical Failure
+A10467,2024-06-29,10:20,Rivera Village,Clear,Wet,Daylight,Medium,Truck,53,Female,36,Minor,0,Weather
+A10468,2025-04-26,04:05,Matthew Hills,Clear,Wet,Night with streetlights,High,Car,20,Male,61,Minor,0,Mechanical Failure
+A10469,2023-12-11,05:25,Connie Point,Fog,Wet,Night without streetlights,High,Truck,22,Female,87,Minor,0,Drunk Driving
+A10470,2023-08-20,17:25,Renee Crossroad,Clear,Snowy,Daylight,Medium,Motorcycle,52,Female,31,Minor,0,Drunk Driving
+A10471,2024-04-22,04:15,Cole Port,Fog,Wet,Night with streetlights,Medium,Car,66,Female,91,Serious,5,Speeding
+A10472,2025-03-21,14:29,Rhonda Ferry,Clear,Snowy,Night with streetlights,Medium,Car,75,Male,25,Minor,0,Weather
+A10473,2023-10-29,15:22,Kelsey Ways,Snow,Dry,Night with streetlights,Medium,Motorcycle,64,Female,23,Fatal,2,Mechanical Failure
+A10474,2025-03-23,05:55,Rick Shoals,Snow,Wet,Daylight,Medium,Motorcycle,30,Female,85,Minor,0,Speeding
+A10475,2023-07-24,18:59,Martin Overpass,Rainy,Snowy,Night without streetlights,Low,Motorcycle,22,Male,105,Minor,0,Drunk Driving
+A10476,2024-05-09,05:05,Emily Ramp,Snow,Dry,Daylight,High,Motorcycle,74,Female,102,Serious,0,Drunk Driving
+A10477,2023-08-18,05:04,Alvarez Extensions,Clear,Wet,Night without streetlights,Medium,Car,23,Male,26,Minor,0,Weather
+A10478,2024-04-03,11:56,Robert Flats,Clear,Snowy,Daylight,Medium,Truck,42,Female,100,Minor,0,Weather
+A10479,2025-04-29,19:23,Julie Forge,Clear,Wet,Night without streetlights,Low,Motorcycle,18,Male,116,Serious,0,Speeding
+A10480,2024-01-25,18:48,Hicks Field,Fog,Snowy,Daylight,Medium,Motorcycle,37,Male,56,Serious,3,Low Visibility
+A10481,2023-12-09,18:13,Kenneth Station,Snow,Snowy,Daylight,Medium,Car,52,Male,37,Serious,4,Weather
+A10482,2023-09-17,16:01,Nancy Stravenue,Rainy,Wet,Night without streetlights,High,Motorcycle,41,Male,90,Serious,1,Speeding
+A10483,2024-01-10,12:59,Danny Fork,Clear,Dry,Night without streetlights,High,Truck,52,Male,59,Minor,0,Weather
+A10484,2023-12-20,07:18,Watson Loop,Rainy,Wet,Night without streetlights,High,Car,28,Male,48,Minor,0,Weather
+A10485,2025-04-28,10:30,Kelly Pike,Rainy,Dry,Daylight,High,Motorcycle,72,Male,116,Fatal,4,Low Visibility
+A10486,2024-07-19,22:54,Renee Place,Clear,Wet,Night without streetlights,Low,Truck,24,Male,112,Minor,0,Weather
+A10487,2024-12-24,04:14,Powell Crossroad,Fog,Dry,Night without streetlights,High,Car,24,Female,99,Minor,0,Drunk Driving
+A10488,2024-07-26,20:49,Lee Viaduct,Fog,Wet,Night with streetlights,Medium,Motorcycle,60,Female,108,Minor,0,Mechanical Failure
+A10489,2024-09-02,21:10,Tanya Walk,Fog,Wet,Night with streetlights,Low,Car,38,Male,120,Minor,0,Low Visibility
+A10490,2023-05-31,19:27,April Loaf,Fog,Wet,Daylight,High,Motorcycle,39,Female,79,Minor,0,Weather
+A10491,2024-03-05,19:18,Bianca Brooks,Snow,Snowy,Daylight,Low,Motorcycle,56,Male,55,Serious,1,Mechanical Failure
+A10492,2024-09-28,11:22,Leonard Street,Rainy,Wet,Night without streetlights,High,Car,64,Male,22,Serious,5,Speeding
+A10493,2025-03-07,12:24,Patrick Ridge,Snow,Snowy,Daylight,Low,Motorcycle,34,Female,103,Serious,2,Low Visibility
+A10494,2023-09-28,03:02,John Lake,Rainy,Snowy,Night without streetlights,Medium,Car,47,Male,70,Minor,0,Speeding
+A10495,2023-06-05,03:23,Wendy Extension,Rainy,Snowy,Night without streetlights,Low,Motorcycle,26,Female,40,Minor,0,Mechanical Failure
+A10496,2023-08-10,05:20,Kevin Causeway,Rainy,Snowy,Night without streetlights,Medium,Truck,20,Male,117,Minor,0,Speeding
+A10497,2024-05-23,20:19,Mcbride Flat,Fog,Wet,Daylight,Low,Motorcycle,31,Female,69,Minor,0,Low Visibility
+A10498,2023-11-30,09:17,Petersen Terrace,Clear,Dry,Night without streetlights,Medium,Car,63,Female,114,Minor,0,Mechanical Failure
+A10499,2023-06-12,04:43,Morrison Extension,Rainy,Wet,Night without streetlights,Medium,Truck,55,Male,86,Minor,0,Drunk Driving
+A10500,2024-05-15,15:56,Logan Dale,Snow,Wet,Night with streetlights,Medium,Truck,74,Male,84,Serious,3,Drunk Driving
+A10501,2024-04-18,20:21,Harris Trafficway,Rainy,Dry,Night without streetlights,High,Truck,31,Male,43,Minor,0,Mechanical Failure
+A10502,2024-09-16,06:43,Wheeler Camp,Clear,Snowy,Daylight,Medium,Truck,64,Male,81,Minor,0,Low Visibility
+A10503,2024-05-28,01:24,Stephanie Path,Rainy,Snowy,Daylight,High,Truck,19,Male,25,Minor,0,Mechanical Failure
+A10504,2025-03-24,10:39,Ethan Common,Rainy,Dry,Night without streetlights,High,Car,75,Male,27,Minor,0,Drunk Driving
+A10505,2023-05-17,01:35,Snyder Lakes,Snow,Snowy,Night without streetlights,High,Car,74,Female,30,Minor,0,Mechanical Failure
+A10506,2024-07-18,16:19,Adrian Mountain,Snow,Wet,Daylight,Low,Truck,56,Male,94,Serious,1,Mechanical Failure
+A10507,2025-01-20,19:53,Maria Common,Fog,Dry,Night without streetlights,High,Truck,47,Male,49,Minor,0,Drunk Driving
+A10508,2024-01-07,11:05,Kendra Creek,Clear,Dry,Daylight,High,Motorcycle,61,Female,39,Minor,0,Drunk Driving
+A10509,2024-08-21,08:17,Walsh Shoals,Snow,Snowy,Night without streetlights,Low,Motorcycle,50,Male,31,Minor,0,Drunk Driving
+A10510,2024-06-27,18:40,Katherine Canyon,Clear,Snowy,Night without streetlights,Medium,Motorcycle,44,Female,25,Minor,0,Low Visibility
+A10511,2025-01-10,06:48,Acevedo Mountains,Rainy,Wet,Night with streetlights,Medium,Motorcycle,69,Male,74,Minor,0,Low Visibility
+A10512,2024-02-06,09:47,Dominguez Fall,Rainy,Dry,Night with streetlights,High,Motorcycle,44,Female,44,Minor,0,Speeding
+A10513,2023-05-14,15:56,Simpson Cape,Clear,Snowy,Daylight,Medium,Motorcycle,31,Female,72,Minor,0,Drunk Driving
+A10514,2025-05-06,01:38,Brady Plaza,Snow,Snowy,Night without streetlights,Medium,Truck,72,Female,92,Minor,0,Weather
+A10515,2024-06-09,03:39,Daniel Ridges,Snow,Dry,Night with streetlights,High,Motorcycle,48,Male,67,Minor,0,Low Visibility
+A10516,2024-04-16,19:08,Darrell Glen,Fog,Wet,Night without streetlights,Medium,Motorcycle,43,Male,104,Minor,0,Drunk Driving
+A10517,2024-05-23,13:13,Smith Forest,Snow,Snowy,Daylight,Low,Car,50,Female,120,Minor,0,Mechanical Failure
+A10518,2024-07-13,12:14,Terry Fort,Clear,Dry,Night with streetlights,High,Car,69,Male,38,Minor,0,Mechanical Failure
+A10519,2023-08-11,15:27,Kim Falls,Snow,Dry,Daylight,Medium,Car,41,Male,97,Minor,0,Low Visibility
+A10520,2025-02-08,14:13,Tom Loop,Snow,Snowy,Night without streetlights,High,Truck,63,Male,119,Serious,5,Low Visibility
+A10521,2023-07-08,17:01,Cook Freeway,Snow,Dry,Daylight,High,Motorcycle,36,Male,24,Serious,4,Mechanical Failure
+A10522,2024-07-10,13:37,Patterson Inlet,Rainy,Snowy,Daylight,High,Car,41,Male,103,Minor,0,Drunk Driving
+A10523,2024-01-12,03:34,Luna Cliff,Clear,Wet,Night with streetlights,Medium,Motorcycle,43,Female,95,Minor,0,Speeding
+A10524,2024-10-29,04:06,Mendez Manor,Clear,Dry,Night without streetlights,Medium,Motorcycle,71,Female,64,Fatal,2,Drunk Driving
+A10525,2024-11-10,04:08,Sara Stravenue,Rainy,Wet,Night with streetlights,High,Car,34,Male,72,Minor,0,Mechanical Failure
+A10526,2023-10-19,03:43,Jordan Orchard,Clear,Snowy,Night with streetlights,Medium,Car,69,Female,88,Serious,4,Weather
+A10527,2024-07-11,05:39,Cox Creek,Snow,Wet,Night without streetlights,Medium,Car,66,Female,119,Minor,0,Low Visibility
+A10528,2023-10-10,14:34,Andrew Crossing,Clear,Wet,Daylight,Medium,Car,42,Male,106,Serious,2,Low Visibility
+A10529,2023-08-03,22:15,Alexander Shore,Fog,Snowy,Night without streetlights,Low,Motorcycle,71,Female,51,Minor,0,Low Visibility
+A10530,2024-03-02,05:08,Matthew Trafficway,Fog,Dry,Night without streetlights,Low,Truck,38,Female,47,Serious,2,Drunk Driving
+A10531,2023-10-21,14:33,Noah Plain,Rainy,Wet,Night without streetlights,Low,Car,65,Male,53,Minor,0,Drunk Driving
+A10532,2025-05-04,16:47,Julia Tunnel,Rainy,Snowy,Night with streetlights,Low,Car,25,Male,106,Fatal,3,Mechanical Failure
+A10533,2023-09-19,07:05,Alyssa Brooks,Clear,Snowy,Daylight,Medium,Truck,57,Female,83,Serious,4,Weather
+A10534,2023-09-29,18:56,Smith Underpass,Snow,Dry,Night without streetlights,Medium,Truck,32,Male,26,Minor,0,Low Visibility
+A10535,2024-01-24,15:57,Calderon Passage,Snow,Snowy,Daylight,High,Truck,43,Male,78,Fatal,5,Mechanical Failure
+A10536,2023-08-12,12:30,Palmer River,Snow,Wet,Night without streetlights,Low,Car,61,Male,68,Minor,0,Weather
+A10537,2023-09-06,20:28,Michelle Expressway,Fog,Snowy,Night with streetlights,Low,Motorcycle,34,Male,54,Minor,0,Mechanical Failure
+A10538,2024-01-23,04:01,Kristine Lights,Fog,Wet,Daylight,Medium,Truck,31,Female,109,Serious,2,Low Visibility
+A10539,2023-07-23,00:27,Freeman Manors,Fog,Wet,Daylight,High,Car,54,Male,32,Serious,1,Mechanical Failure
+A10540,2025-02-27,22:35,Lyons Ford,Snow,Wet,Daylight,Low,Motorcycle,27,Female,21,Minor,0,Low Visibility
+A10541,2024-05-18,03:51,Michael Ranch,Rainy,Snowy,Night without streetlights,High,Motorcycle,38,Female,58,Minor,0,Mechanical Failure
+A10542,2024-08-11,14:58,Christopher Streets,Clear,Wet,Daylight,High,Car,21,Male,52,Minor,0,Speeding
+A10543,2024-01-18,04:59,Nelson Harbors,Snow,Snowy,Night with streetlights,Medium,Truck,41,Female,64,Minor,0,Speeding
+A10544,2025-01-05,18:18,James Islands,Fog,Snowy,Night without streetlights,Low,Motorcycle,54,Male,119,Minor,0,Weather
+A10545,2024-06-22,07:52,Mitchell Tunnel,Snow,Snowy,Night with streetlights,Low,Truck,57,Female,79,Minor,0,Drunk Driving
+A10546,2023-07-24,15:57,Hansen Path,Rainy,Snowy,Night with streetlights,Medium,Motorcycle,57,Female,29,Minor,0,Weather
+A10547,2024-01-04,09:42,Davis Ridge,Rainy,Wet,Night with streetlights,High,Truck,63,Female,97,Minor,0,Weather
+A10548,2023-09-03,12:27,Ramos Burgs,Snow,Wet,Night without streetlights,High,Motorcycle,46,Female,41,Minor,0,Speeding
+A10549,2024-02-08,16:38,Joel Underpass,Rainy,Snowy,Daylight,High,Truck,65,Male,46,Minor,0,Speeding
+A10550,2024-04-18,02:33,Jamie Radial,Clear,Dry,Night with streetlights,High,Car,19,Female,87,Serious,0,Speeding
+A10551,2025-02-16,08:43,Johnson Greens,Fog,Snowy,Daylight,Low,Motorcycle,74,Female,59,Minor,0,Weather
+A10552,2024-07-25,09:36,Hernandez Motorway,Snow,Snowy,Daylight,Low,Motorcycle,71,Male,23,Minor,0,Weather
+A10553,2024-09-03,01:26,Williams Viaduct,Fog,Wet,Night with streetlights,High,Truck,53,Female,37,Fatal,5,Mechanical Failure
+A10554,2023-05-20,15:58,Mason Centers,Rainy,Snowy,Night without streetlights,Medium,Motorcycle,65,Female,87,Minor,0,Mechanical Failure
+A10555,2023-08-01,07:23,Murphy Island,Fog,Wet,Night with streetlights,High,Car,69,Male,76,Minor,0,Low Visibility
+A10556,2024-05-24,05:38,Kaiser Skyway,Fog,Dry,Night with streetlights,Low,Car,51,Male,64,Minor,0,Mechanical Failure
+A10557,2024-08-20,09:42,Zuniga Shore,Clear,Snowy,Night with streetlights,Medium,Truck,18,Female,57,Minor,0,Speeding
+A10558,2024-02-12,22:53,Henry Fords,Fog,Dry,Night with streetlights,High,Truck,43,Male,40,Serious,5,Low Visibility
+A10559,2024-05-21,05:39,Philip Trail,Snow,Dry,Night with streetlights,Low,Truck,58,Male,86,Serious,4,Weather
+A10560,2024-09-05,00:55,Taylor Harbors,Fog,Snowy,Night without streetlights,High,Truck,44,Male,28,Minor,0,Weather
+A10561,2023-08-21,00:52,Lisa Lights,Clear,Snowy,Night with streetlights,High,Truck,35,Female,44,Minor,0,Drunk Driving
+A10562,2024-05-11,05:41,Tasha Stravenue,Clear,Snowy,Daylight,Low,Car,36,Female,36,Serious,5,Speeding
+A10563,2024-06-24,14:45,Wallace Cliffs,Rainy,Dry,Daylight,Low,Truck,31,Female,73,Minor,0,Low Visibility
+A10564,2024-11-11,20:11,Noah Viaduct,Fog,Wet,Night without streetlights,Low,Truck,23,Male,27,Minor,0,Low Visibility
+A10565,2023-12-28,03:35,Joshua Springs,Clear,Snowy,Night with streetlights,Low,Car,75,Female,68,Serious,0,Drunk Driving
+A10566,2024-01-11,04:14,Melody Drive,Snow,Wet,Daylight,High,Car,30,Female,114,Serious,4,Drunk Driving
+A10567,2024-11-16,14:18,Howell Brooks,Snow,Wet,Night without streetlights,Medium,Truck,28,Male,115,Fatal,4,Speeding
+A10568,2024-10-03,03:30,James Forks,Fog,Wet,Night without streetlights,Medium,Car,41,Male,105,Minor,0,Speeding
+A10569,2024-06-21,04:19,Sanchez Parkways,Rainy,Snowy,Night with streetlights,Medium,Car,28,Female,94,Minor,0,Drunk Driving
+A10570,2024-09-12,12:46,Price Highway,Clear,Dry,Night without streetlights,High,Truck,62,Male,67,Serious,1,Drunk Driving
+A10571,2024-09-23,06:41,Tanya Passage,Snow,Dry,Night without streetlights,High,Truck,66,Male,27,Minor,0,Drunk Driving
+A10572,2023-06-16,09:35,Jody Road,Clear,Dry,Night with streetlights,Low,Truck,53,Female,76,Serious,0,Low Visibility
+A10573,2024-08-15,20:46,Erica Branch,Fog,Snowy,Daylight,Medium,Car,49,Female,91,Minor,0,Low Visibility
+A10574,2025-03-15,16:10,Hull Cape,Rainy,Snowy,Daylight,High,Truck,38,Female,55,Serious,4,Mechanical Failure
+A10575,2024-04-29,09:33,Zoe Divide,Rainy,Dry,Night without streetlights,Low,Truck,36,Female,89,Minor,0,Speeding
+A10576,2025-03-13,00:11,Brian Rue,Snow,Snowy,Daylight,Low,Motorcycle,72,Female,119,Minor,0,Weather
+A10577,2023-10-12,15:04,Brandon Ports,Clear,Snowy,Night without streetlights,Medium,Car,51,Female,118,Minor,0,Mechanical Failure
+A10578,2024-06-11,07:28,Greer Plain,Fog,Wet,Night with streetlights,High,Truck,25,Male,86,Minor,0,Speeding
+A10579,2023-10-14,00:45,Anthony Plaza,Rainy,Dry,Daylight,Low,Car,49,Male,32,Minor,0,Low Visibility
+A10580,2024-08-26,16:24,Michael Turnpike,Snow,Snowy,Night without streetlights,High,Motorcycle,34,Male,66,Minor,0,Speeding
+A10581,2024-03-10,22:24,Anthony Light,Clear,Dry,Night without streetlights,Medium,Car,47,Male,66,Minor,0,Low Visibility
+A10582,2025-02-12,15:02,Lawson Oval,Fog,Snowy,Daylight,High,Truck,51,Male,113,Minor,0,Weather
+A10583,2024-03-06,23:36,Nelson Forks,Clear,Dry,Night without streetlights,Low,Car,64,Male,88,Minor,0,Drunk Driving
+A10584,2023-12-23,13:10,Walter Underpass,Rainy,Snowy,Night without streetlights,Low,Motorcycle,65,Female,115,Minor,0,Mechanical Failure
+A10585,2025-04-27,23:40,Donna Valleys,Fog,Snowy,Night with streetlights,High,Motorcycle,45,Male,41,Serious,4,Low Visibility
+A10586,2024-04-07,23:20,Katherine Streets,Fog,Snowy,Daylight,High,Motorcycle,46,Female,60,Minor,0,Weather
+A10587,2024-05-15,13:19,Christina Gateway,Fog,Wet,Night without streetlights,Medium,Motorcycle,38,Male,92,Minor,0,Low Visibility
+A10588,2024-02-20,00:11,Salazar Haven,Fog,Wet,Night with streetlights,Medium,Truck,18,Male,56,Minor,0,Mechanical Failure
+A10589,2024-12-25,04:09,Olsen Course,Rainy,Wet,Daylight,Medium,Car,31,Female,22,Serious,5,Weather
+A10590,2024-04-16,04:55,Vega Club,Rainy,Dry,Daylight,Medium,Truck,27,Male,53,Minor,0,Mechanical Failure
+A10591,2023-07-21,12:08,Strong Shore,Rainy,Dry,Night with streetlights,Medium,Car,54,Female,92,Fatal,5,Speeding
+A10592,2023-06-23,08:02,Adam Inlet,Fog,Wet,Daylight,Medium,Motorcycle,62,Male,96,Minor,0,Speeding
+A10593,2024-04-20,03:05,Phillips Estates,Snow,Dry,Daylight,Medium,Truck,74,Female,73,Fatal,0,Drunk Driving
+A10594,2024-06-14,13:52,Patton Haven,Clear,Snowy,Night without streetlights,Medium,Car,37,Male,60,Minor,0,Drunk Driving
+A10595,2023-06-13,22:28,Randolph Point,Fog,Snowy,Night without streetlights,Low,Car,21,Female,77,Serious,4,Mechanical Failure
+A10596,2024-09-29,00:32,Bonnie Locks,Clear,Dry,Night with streetlights,Medium,Truck,27,Male,63,Minor,0,Mechanical Failure
+A10597,2023-06-06,13:01,Kimberly Pine,Clear,Snowy,Night with streetlights,Medium,Car,43,Female,119,Minor,0,Drunk Driving
+A10598,2024-11-13,12:12,Jeffrey Motorway,Snow,Snowy,Daylight,Medium,Truck,59,Male,91,Minor,0,Mechanical Failure
+A10599,2023-06-06,04:59,Darren Burgs,Rainy,Dry,Daylight,Medium,Truck,38,Male,34,Minor,0,Low Visibility
+A10600,2024-01-06,02:16,Brady Branch,Fog,Wet,Daylight,Medium,Truck,56,Male,118,Minor,0,Weather
+A10601,2025-01-05,12:37,Mary Key,Snow,Snowy,Daylight,Medium,Car,70,Male,45,Minor,0,Drunk Driving
+A10602,2023-07-23,16:07,Mccarty Manor,Clear,Dry,Night without streetlights,Low,Car,57,Male,56,Minor,0,Speeding
+A10603,2023-12-20,09:21,Baker Crest,Fog,Wet,Night with streetlights,Low,Truck,31,Male,46,Minor,0,Weather
+A10604,2024-03-30,23:59,Beverly Rest,Snow,Snowy,Night without streetlights,Low,Motorcycle,62,Male,68,Minor,0,Mechanical Failure
+A10605,2024-06-22,09:40,Berry Fields,Clear,Wet,Daylight,Low,Truck,30,Female,26,Minor,0,Speeding
+A10606,2024-08-24,09:29,Claudia Pass,Clear,Wet,Night without streetlights,Medium,Motorcycle,72,Female,33,Minor,0,Low Visibility
+A10607,2024-10-14,20:29,Miller Court,Rainy,Wet,Night without streetlights,High,Car,75,Female,82,Serious,4,Speeding
+A10608,2023-07-11,09:04,Amy Turnpike,Rainy,Dry,Night without streetlights,Medium,Motorcycle,63,Male,25,Minor,0,Mechanical Failure
+A10609,2023-09-05,19:43,Robert Manor,Fog,Wet,Night with streetlights,Medium,Motorcycle,28,Male,64,Minor,0,Weather
+A10610,2024-03-07,05:02,Brian Centers,Fog,Dry,Night without streetlights,Medium,Car,58,Female,69,Serious,0,Mechanical Failure
+A10611,2025-04-05,02:41,Nelson Row,Fog,Dry,Daylight,Medium,Truck,60,Male,31,Serious,4,Mechanical Failure
+A10612,2023-07-01,16:15,Myers Views,Rainy,Wet,Daylight,High,Car,45,Female,97,Minor,0,Mechanical Failure
+A10613,2024-12-08,02:11,Johnson Valley,Rainy,Dry,Night without streetlights,Low,Motorcycle,52,Male,37,Minor,0,Mechanical Failure
+A10614,2024-12-27,16:00,Hodges Ranch,Rainy,Wet,Daylight,High,Motorcycle,28,Female,28,Minor,0,Speeding
+A10615,2025-02-02,09:49,Holly Summit,Rainy,Wet,Daylight,High,Car,66,Female,72,Fatal,2,Low Visibility
+A10616,2025-01-09,01:46,Ronald Port,Fog,Dry,Daylight,Low,Car,29,Male,117,Fatal,4,Weather
+A10617,2023-09-16,01:42,Dennis Mill,Rainy,Snowy,Daylight,Low,Motorcycle,19,Female,30,Minor,0,Low Visibility
+A10618,2024-10-02,20:52,Billy Bypass,Rainy,Snowy,Night without streetlights,Medium,Motorcycle,59,Female,43,Serious,3,Low Visibility
+A10619,2024-04-30,11:14,Edwards Square,Rainy,Dry,Daylight,Low,Car,44,Male,54,Fatal,1,Drunk Driving
+A10620,2024-11-04,15:16,Rowe Manor,Rainy,Dry,Daylight,Medium,Motorcycle,49,Female,78,Serious,3,Low Visibility
+A10621,2024-02-19,02:28,Cody Terrace,Clear,Snowy,Night without streetlights,Medium,Motorcycle,38,Female,98,Fatal,4,Mechanical Failure
+A10622,2024-01-23,02:34,Collins Meadow,Clear,Snowy,Daylight,Medium,Truck,70,Male,51,Minor,0,Low Visibility
+A10623,2024-10-01,00:36,Moore Rest,Clear,Snowy,Night with streetlights,High,Motorcycle,21,Male,57,Minor,0,Weather
+A10624,2023-09-29,11:15,Brewer Via,Fog,Wet,Daylight,Medium,Truck,57,Male,108,Minor,0,Drunk Driving
+A10625,2023-05-15,15:30,Jamie Trail,Snow,Snowy,Night with streetlights,Low,Motorcycle,50,Male,43,Serious,5,Mechanical Failure
+A10626,2024-04-14,06:30,Gonzales Gateway,Rainy,Wet,Night with streetlights,Medium,Truck,19,Male,78,Minor,0,Drunk Driving
+A10627,2023-09-06,07:51,Misty Ford,Snow,Dry,Night with streetlights,Medium,Motorcycle,59,Male,111,Serious,0,Speeding
+A10628,2024-02-09,05:41,Howe Courts,Snow,Snowy,Night with streetlights,Low,Motorcycle,63,Female,113,Serious,4,Mechanical Failure
+A10629,2025-01-15,19:07,Sullivan Roads,Rainy,Wet,Night without streetlights,Medium,Car,67,Male,62,Minor,0,Drunk Driving
+A10630,2024-07-06,15:56,Chan Bridge,Rainy,Dry,Daylight,High,Car,44,Female,59,Serious,3,Weather
+A10631,2023-07-16,23:18,Huff Loop,Rainy,Dry,Daylight,Low,Car,57,Female,21,Minor,0,Low Visibility
+A10632,2023-07-03,08:55,Jennifer Extensions,Clear,Snowy,Night with streetlights,Low,Car,55,Female,78,Minor,0,Speeding
+A10633,2024-05-21,09:23,Shaun Forge,Clear,Dry,Night without streetlights,Medium,Motorcycle,58,Male,26,Minor,0,Speeding
+A10634,2025-04-29,08:59,Jonathan Dale,Fog,Dry,Daylight,Low,Motorcycle,54,Female,62,Fatal,0,Speeding
+A10635,2024-10-11,03:58,Marsh Prairie,Snow,Dry,Daylight,High,Truck,57,Male,78,Serious,2,Speeding
+A10636,2025-04-04,04:30,Michael River,Clear,Wet,Night with streetlights,Medium,Truck,70,Male,117,Minor,0,Mechanical Failure
+A10637,2023-06-15,23:26,Anna Valley,Clear,Wet,Night with streetlights,Low,Car,62,Female,62,Minor,0,Mechanical Failure
+A10638,2025-01-08,20:17,Murphy Lock,Rainy,Snowy,Daylight,High,Car,24,Male,81,Serious,4,Weather
+A10639,2024-02-26,05:14,Johnson Estate,Snow,Snowy,Night with streetlights,Medium,Motorcycle,54,Female,36,Minor,0,Low Visibility
+A10640,2023-09-12,00:46,Erin Alley,Snow,Wet,Daylight,High,Car,63,Female,44,Minor,0,Speeding
+A10641,2025-02-19,10:01,Hale Pike,Snow,Snowy,Daylight,High,Car,69,Female,72,Minor,0,Weather
+A10642,2024-11-20,05:21,Bell Point,Rainy,Dry,Night without streetlights,Low,Motorcycle,36,Female,28,Minor,0,Mechanical Failure
+A10643,2023-10-26,23:35,Matthew Key,Fog,Dry,Daylight,High,Truck,39,Female,112,Minor,0,Speeding
+A10644,2025-02-21,10:19,Hamilton Locks,Rainy,Dry,Night with streetlights,Medium,Motorcycle,48,Female,24,Minor,0,Low Visibility
+A10645,2025-02-27,13:58,Adams Alley,Rainy,Snowy,Night with streetlights,High,Truck,47,Female,115,Minor,0,Mechanical Failure
+A10646,2025-02-13,06:56,Pamela Stravenue,Fog,Snowy,Night without streetlights,High,Truck,53,Male,46,Minor,0,Weather
+A10647,2023-08-22,10:04,Foley Crossroad,Fog,Dry,Daylight,Medium,Car,39,Female,100,Minor,0,Drunk Driving
+A10648,2024-09-12,00:25,Hopkins Trail,Snow,Dry,Night without streetlights,Low,Truck,63,Female,110,Minor,0,Low Visibility
+A10649,2024-03-06,15:52,Joseph Springs,Clear,Wet,Daylight,Medium,Truck,71,Female,47,Minor,0,Drunk Driving
+A10650,2023-10-07,05:58,Jeffrey Valleys,Clear,Wet,Daylight,Low,Car,46,Male,81,Fatal,1,Drunk Driving
+A10651,2024-01-30,15:34,Dixon Road,Fog,Wet,Night without streetlights,High,Truck,67,Female,38,Serious,0,Mechanical Failure
+A10652,2024-01-04,02:35,Salinas Glens,Rainy,Dry,Night without streetlights,Low,Truck,42,Male,20,Minor,0,Speeding
+A10653,2024-05-17,19:42,Ryan Inlet,Clear,Wet,Night with streetlights,Low,Car,51,Female,22,Minor,0,Weather
+A10654,2025-01-05,20:08,Clark Centers,Rainy,Wet,Daylight,Low,Truck,35,Female,118,Minor,0,Speeding
+A10655,2024-09-21,11:20,Colon Curve,Fog,Dry,Daylight,Medium,Car,18,Male,46,Minor,0,Mechanical Failure
+A10656,2023-11-11,15:42,Hill Plains,Fog,Wet,Daylight,High,Truck,54,Male,41,Minor,0,Mechanical Failure
+A10657,2024-07-30,01:23,John Forges,Fog,Snowy,Night with streetlights,Low,Car,19,Female,106,Minor,0,Low Visibility
+A10658,2024-04-14,12:25,Joseph Points,Clear,Dry,Night with streetlights,Medium,Car,63,Female,98,Minor,0,Weather
+A10659,2023-06-01,11:01,Turner Centers,Rainy,Snowy,Night without streetlights,High,Car,66,Female,92,Minor,0,Low Visibility
+A10660,2023-12-22,01:33,Baker Viaduct,Clear,Wet,Night with streetlights,High,Motorcycle,63,Female,80,Minor,0,Drunk Driving
+A10661,2024-10-22,23:15,Todd Isle,Rainy,Snowy,Night with streetlights,Medium,Truck,29,Female,120,Serious,2,Low Visibility
+A10662,2025-03-25,19:56,Alexis Fall,Snow,Dry,Daylight,Medium,Car,40,Female,79,Serious,2,Weather
+A10663,2024-02-08,03:01,Morrow Drive,Rainy,Snowy,Daylight,Medium,Motorcycle,68,Male,61,Minor,0,Speeding
+A10664,2023-10-02,07:22,Barrett Mall,Fog,Snowy,Night with streetlights,Medium,Motorcycle,44,Male,99,Minor,0,Drunk Driving
+A10665,2023-07-21,17:59,Christopher Harbor,Snow,Wet,Daylight,Medium,Car,70,Female,120,Fatal,4,Weather
+A10666,2024-11-17,13:43,Smith Radial,Rainy,Dry,Night without streetlights,High,Car,65,Female,34,Minor,0,Low Visibility
+A10667,2023-08-23,13:12,Michael Stream,Fog,Snowy,Daylight,Medium,Car,37,Female,28,Minor,0,Mechanical Failure
+A10668,2024-12-20,05:09,Foster Highway,Snow,Wet,Night with streetlights,High,Motorcycle,21,Male,47,Serious,4,Speeding
+A10669,2023-05-18,12:42,Amanda Shoal,Rainy,Snowy,Daylight,Medium,Motorcycle,36,Female,98,Minor,0,Drunk Driving
+A10670,2025-02-06,06:52,Tamara Mountain,Rainy,Snowy,Night with streetlights,Medium,Motorcycle,68,Female,75,Serious,2,Speeding
+A10671,2024-04-18,14:51,Ryan Station,Clear,Snowy,Night without streetlights,Medium,Car,72,Female,27,Minor,0,Mechanical Failure
+A10672,2023-06-29,03:45,Cochran Street,Clear,Dry,Night without streetlights,High,Truck,25,Female,23,Minor,0,Mechanical Failure
+A10673,2023-12-09,23:17,John Common,Snow,Snowy,Night with streetlights,High,Truck,43,Female,75,Minor,0,Drunk Driving
+A10674,2024-12-05,12:58,Mary Street,Snow,Dry,Daylight,High,Truck,71,Female,73,Minor,0,Drunk Driving
+A10675,2024-08-28,22:29,Katherine Trail,Rainy,Dry,Daylight,High,Car,27,Female,104,Minor,0,Drunk Driving
+A10676,2024-03-28,04:21,Jessica Roads,Clear,Dry,Night without streetlights,Medium,Truck,75,Female,99,Minor,0,Mechanical Failure
+A10677,2025-01-15,08:05,Sharon Key,Snow,Snowy,Night with streetlights,Medium,Truck,32,Male,74,Minor,0,Mechanical Failure
+A10678,2025-01-11,16:19,Wendy Landing,Snow,Snowy,Daylight,High,Motorcycle,35,Female,89,Minor,0,Speeding
+A10679,2023-08-14,04:55,Amber Ridges,Clear,Snowy,Night with streetlights,High,Truck,25,Female,108,Minor,0,Mechanical Failure
+A10680,2025-02-09,08:20,Smith Pines,Fog,Wet,Night without streetlights,Low,Motorcycle,74,Male,51,Minor,0,Speeding
+A10681,2023-09-11,08:14,Knight Estate,Fog,Snowy,Daylight,Medium,Motorcycle,67,Male,80,Minor,0,Low Visibility
+A10682,2024-11-12,05:27,Frank Summit,Fog,Wet,Night with streetlights,Medium,Truck,28,Male,108,Fatal,5,Weather
+A10683,2023-10-10,18:04,Beck Burgs,Fog,Dry,Night without streetlights,Medium,Motorcycle,28,Male,104,Fatal,5,Mechanical Failure
+A10684,2024-02-10,11:54,Travis Avenue,Clear,Wet,Night with streetlights,Low,Car,50,Male,120,Minor,0,Drunk Driving
+A10685,2023-08-17,06:37,Lopez Stravenue,Fog,Wet,Night with streetlights,Low,Motorcycle,25,Male,95,Serious,5,Low Visibility
+A10686,2024-12-07,09:56,Charles Pike,Fog,Dry,Night with streetlights,High,Car,49,Male,87,Serious,2,Speeding
+A10687,2025-02-27,20:35,Ramos Gardens,Rainy,Snowy,Daylight,Medium,Truck,67,Female,50,Minor,0,Drunk Driving
+A10688,2024-05-25,20:31,Williams Bypass,Rainy,Snowy,Night without streetlights,Medium,Car,59,Female,116,Serious,0,Drunk Driving
+A10689,2025-01-18,00:56,Scott Road,Snow,Wet,Night with streetlights,Medium,Truck,65,Male,68,Minor,0,Low Visibility
+A10690,2024-05-12,16:09,Vanessa Passage,Snow,Wet,Daylight,High,Truck,18,Female,77,Minor,0,Weather
+A10691,2024-01-30,06:46,Debbie Valleys,Clear,Dry,Night without streetlights,High,Truck,72,Female,98,Fatal,2,Weather
+A10692,2025-02-13,01:15,Paula Tunnel,Fog,Wet,Daylight,Medium,Motorcycle,55,Female,79,Serious,5,Drunk Driving
+A10693,2024-11-14,04:11,Debra Isle,Rainy,Snowy,Night with streetlights,High,Motorcycle,29,Female,90,Minor,0,Speeding
+A10694,2023-08-17,03:33,Vang Pine,Clear,Dry,Night with streetlights,Low,Motorcycle,24,Female,64,Minor,0,Weather
+A10695,2024-08-26,06:17,Sanders Flats,Fog,Dry,Daylight,Low,Motorcycle,23,Male,96,Minor,0,Drunk Driving
+A10696,2023-10-15,17:59,Crawford Valleys,Clear,Snowy,Daylight,Low,Motorcycle,26,Female,104,Serious,5,Mechanical Failure
+A10697,2024-01-17,22:30,Jonathan Bypass,Rainy,Dry,Night without streetlights,Low,Truck,36,Female,104,Fatal,5,Low Visibility
+A10698,2023-05-19,21:04,Nathan Village,Fog,Wet,Night without streetlights,High,Truck,34,Male,119,Minor,0,Speeding
+A10699,2024-01-31,14:52,Rose Falls,Snow,Wet,Night with streetlights,Low,Truck,70,Female,42,Minor,0,Low Visibility
+A10700,2024-04-24,23:36,Sheila Course,Rainy,Snowy,Night with streetlights,Low,Motorcycle,49,Male,38,Minor,0,Low Visibility
+A10701,2024-02-22,23:34,Thomas Light,Rainy,Snowy,Night without streetlights,Low,Truck,63,Female,33,Minor,0,Speeding
+A10702,2024-11-02,02:55,Edwards Trail,Fog,Wet,Daylight,Medium,Car,59,Male,24,Minor,0,Weather
+A10703,2024-05-27,02:26,Joseph Landing,Rainy,Snowy,Night with streetlights,Medium,Motorcycle,18,Female,81,Minor,0,Speeding
+A10704,2025-03-07,21:17,Hubbard Knoll,Rainy,Dry,Night with streetlights,High,Truck,25,Female,62,Minor,0,Low Visibility
+A10705,2023-08-29,12:17,Charles Brooks,Clear,Snowy,Night without streetlights,Low,Truck,52,Female,30,Serious,2,Drunk Driving
+A10706,2024-03-01,20:13,Huang Lake,Rainy,Snowy,Daylight,Medium,Motorcycle,30,Female,109,Minor,0,Speeding
+A10707,2024-03-03,11:04,Rodriguez Tunnel,Fog,Wet,Daylight,High,Truck,65,Male,37,Minor,0,Speeding
+A10708,2024-03-25,20:36,Wilson Corner,Rainy,Wet,Night with streetlights,Low,Motorcycle,59,Female,83,Minor,0,Low Visibility
+A10709,2023-06-19,03:32,Darrell Crescent,Clear,Dry,Night with streetlights,Low,Truck,68,Male,71,Minor,0,Mechanical Failure
+A10710,2024-08-15,03:46,Jennifer Isle,Snow,Snowy,Night without streetlights,Low,Motorcycle,55,Male,29,Minor,0,Drunk Driving
+A10711,2024-06-06,22:13,Rachel Cliff,Snow,Snowy,Daylight,Medium,Motorcycle,20,Male,109,Minor,0,Speeding
+A10712,2023-07-18,16:13,Vanessa Manor,Rainy,Snowy,Daylight,Medium,Car,47,Male,95,Minor,0,Speeding
+A10713,2024-05-21,01:24,Thompson Stream,Clear,Wet,Night without streetlights,High,Car,22,Male,74,Minor,0,Low Visibility
+A10714,2025-01-08,07:24,Erin Park,Fog,Dry,Night without streetlights,High,Motorcycle,26,Female,47,Serious,4,Drunk Driving
+A10715,2024-08-07,00:06,Jones Rapid,Fog,Dry,Daylight,Medium,Car,66,Female,41,Minor,0,Mechanical Failure
+A10716,2023-08-20,12:40,Roberta View,Rainy,Wet,Daylight,High,Car,26,Male,100,Minor,0,Drunk Driving
+A10717,2024-10-13,18:33,Avila River,Clear,Wet,Daylight,Low,Car,29,Male,110,Minor,0,Weather
+A10718,2023-08-17,18:45,Mitchell Meadow,Snow,Snowy,Night with streetlights,High,Car,31,Male,101,Minor,0,Low Visibility
+A10719,2024-03-26,14:13,Floyd Gardens,Snow,Dry,Daylight,High,Motorcycle,20,Male,111,Minor,0,Speeding
+A10720,2023-08-04,02:56,Flores Meadows,Fog,Wet,Night with streetlights,Low,Motorcycle,33,Male,35,Fatal,0,Mechanical Failure
+A10721,2024-10-14,16:23,Payne Motorway,Fog,Snowy,Night without streetlights,Low,Truck,67,Male,55,Minor,0,Speeding
+A10722,2023-07-10,02:16,Ryan Crossing,Rainy,Snowy,Night with streetlights,Medium,Car,28,Male,26,Minor,0,Weather
+A10723,2024-02-17,18:02,Clark Keys,Rainy,Wet,Night with streetlights,Medium,Motorcycle,69,Female,25,Minor,0,Speeding
+A10724,2024-02-17,01:25,Hall Ports,Rainy,Dry,Daylight,Medium,Motorcycle,25,Male,50,Serious,4,Mechanical Failure
+A10725,2024-03-02,17:17,Gomez Camp,Fog,Wet,Daylight,High,Motorcycle,75,Female,49,Serious,2,Drunk Driving
+A10726,2024-08-07,19:54,Shelly Radial,Clear,Dry,Night without streetlights,Medium,Car,42,Male,29,Minor,0,Low Visibility
+A10727,2024-06-05,23:01,Stewart Prairie,Clear,Wet,Daylight,Low,Motorcycle,47,Male,69,Minor,0,Low Visibility
+A10728,2024-03-17,07:29,Ryan Coves,Rainy,Snowy,Night with streetlights,Medium,Car,39,Male,24,Minor,0,Speeding
+A10729,2024-09-21,18:17,Fleming Canyon,Fog,Dry,Daylight,Medium,Truck,44,Male,117,Minor,0,Weather
+A10730,2024-05-02,12:02,Edward Crest,Rainy,Snowy,Night without streetlights,Low,Motorcycle,53,Male,31,Minor,0,Mechanical Failure
+A10731,2023-11-29,21:41,Zachary Fields,Snow,Dry,Night without streetlights,Medium,Truck,35,Male,113,Minor,0,Drunk Driving
+A10732,2023-09-16,19:57,Frazier Burg,Rainy,Wet,Night with streetlights,High,Car,75,Male,93,Serious,3,Speeding
+A10733,2023-08-26,06:17,Anderson Heights,Clear,Wet,Night without streetlights,High,Car,45,Female,81,Serious,5,Speeding
+A10734,2025-04-04,19:10,Philip Drive,Snow,Wet,Daylight,Low,Motorcycle,66,Male,108,Serious,1,Drunk Driving
+A10735,2024-03-15,13:44,Phillips Way,Fog,Wet,Daylight,High,Car,19,Female,105,Minor,0,Low Visibility
+A10736,2024-01-24,21:21,Forbes Shoals,Clear,Wet,Night with streetlights,Low,Motorcycle,43,Male,67,Minor,0,Speeding
+A10737,2025-04-01,05:43,Patrick Mall,Clear,Wet,Night without streetlights,Medium,Motorcycle,20,Female,74,Serious,5,Mechanical Failure
+A10738,2023-08-31,08:02,Jose Forest,Rainy,Snowy,Daylight,High,Truck,65,Male,85,Fatal,5,Weather
+A10739,2024-03-29,00:14,Turner Passage,Clear,Dry,Night with streetlights,Medium,Truck,57,Male,66,Minor,0,Mechanical Failure
+A10740,2023-06-02,02:08,Washington Lodge,Clear,Snowy,Night without streetlights,Low,Car,39,Male,89,Minor,0,Low Visibility
+A10741,2025-02-19,12:28,Heidi Village,Rainy,Snowy,Daylight,Medium,Truck,75,Female,84,Minor,0,Weather
+A10742,2023-12-22,22:11,Smith Parkway,Clear,Dry,Night with streetlights,Medium,Truck,49,Male,80,Serious,5,Mechanical Failure
+A10743,2023-10-06,19:05,Shields Glen,Fog,Wet,Night without streetlights,Medium,Motorcycle,62,Male,44,Serious,3,Speeding
+A10744,2024-01-21,00:19,Vasquez Port,Clear,Wet,Daylight,Medium,Car,24,Male,55,Minor,0,Drunk Driving
+A10745,2024-12-20,14:23,Crystal Heights,Snow,Dry,Daylight,High,Motorcycle,19,Female,73,Fatal,4,Drunk Driving
+A10746,2024-02-21,10:24,Melissa Well,Snow,Wet,Night with streetlights,Medium,Motorcycle,59,Male,57,Minor,0,Speeding
+A10747,2024-12-06,17:57,Melissa Lodge,Rainy,Snowy,Night without streetlights,Medium,Truck,55,Female,103,Minor,0,Weather
+A10748,2024-06-03,04:03,Connie Station,Snow,Snowy,Night without streetlights,High,Motorcycle,71,Female,78,Minor,0,Drunk Driving
+A10749,2025-03-27,21:18,Baird Way,Fog,Dry,Night with streetlights,Low,Truck,41,Female,118,Serious,1,Weather
+A10750,2024-10-29,18:18,Katrina Square,Fog,Wet,Daylight,High,Car,63,Female,43,Fatal,5,Drunk Driving
+A10751,2023-07-01,13:48,Sara Glens,Rainy,Dry,Daylight,Low,Truck,54,Male,76,Minor,0,Drunk Driving
+A10752,2024-04-21,17:41,Daniel Light,Rainy,Snowy,Night without streetlights,Low,Motorcycle,38,Female,38,Minor,0,Mechanical Failure
+A10753,2023-08-06,00:01,Ashley Summit,Rainy,Snowy,Night with streetlights,Low,Car,43,Female,118,Minor,0,Low Visibility
+A10754,2024-01-08,15:44,White Curve,Fog,Dry,Daylight,High,Motorcycle,50,Female,102,Serious,3,Weather
+A10755,2024-04-12,05:24,Wright Village,Rainy,Snowy,Night without streetlights,Medium,Truck,62,Male,113,Minor,0,Speeding
+A10756,2024-12-08,15:31,Martinez Cliffs,Rainy,Snowy,Night without streetlights,Low,Truck,19,Female,99,Serious,3,Weather
+A10757,2023-05-18,01:46,Lowe Stream,Clear,Wet,Daylight,High,Motorcycle,30,Male,120,Fatal,2,Drunk Driving
+A10758,2024-09-17,11:18,Gonzalez Groves,Clear,Dry,Night without streetlights,Medium,Motorcycle,60,Male,85,Minor,0,Low Visibility
+A10759,2025-04-11,08:40,Jared Orchard,Fog,Snowy,Night without streetlights,High,Car,60,Female,70,Minor,0,Low Visibility
+A10760,2024-04-23,22:22,Ryan Glen,Fog,Wet,Night with streetlights,Low,Truck,40,Female,59,Fatal,4,Speeding
+A10761,2024-05-28,19:14,Megan Passage,Rainy,Snowy,Night with streetlights,High,Truck,69,Female,56,Minor,0,Low Visibility
+A10762,2024-09-21,15:57,Carter Spur,Snow,Dry,Night without streetlights,High,Car,27,Male,58,Minor,0,Mechanical Failure
+A10763,2024-02-29,12:19,Tyler Cove,Fog,Dry,Night without streetlights,Medium,Car,18,Female,101,Fatal,3,Drunk Driving
+A10764,2024-04-18,11:55,Olsen Spur,Snow,Snowy,Night without streetlights,Low,Car,29,Female,57,Minor,0,Speeding
+A10765,2025-04-05,08:54,Kimberly Rue,Fog,Snowy,Night with streetlights,Medium,Motorcycle,65,Female,48,Minor,0,Speeding
+A10766,2024-10-23,23:46,Melissa Motorway,Rainy,Wet,Night with streetlights,High,Motorcycle,48,Male,103,Minor,0,Weather
+A10767,2023-10-14,10:27,Anna Cliffs,Snow,Dry,Night with streetlights,High,Motorcycle,33,Male,35,Serious,3,Speeding
+A10768,2023-10-24,16:48,Jonathan Island,Fog,Snowy,Night with streetlights,High,Truck,73,Female,100,Minor,0,Speeding
+A10769,2024-03-04,18:03,Galloway Mountain,Fog,Snowy,Night without streetlights,High,Car,72,Female,40,Minor,0,Drunk Driving
+A10770,2023-08-09,23:46,Hughes Orchard,Fog,Wet,Night without streetlights,Low,Truck,28,Male,54,Minor,0,Weather
+A10771,2023-10-09,20:09,Luis Valleys,Clear,Wet,Night with streetlights,High,Motorcycle,22,Male,118,Minor,0,Speeding
+A10772,2023-12-07,20:06,Haas Camp,Rainy,Snowy,Night with streetlights,Medium,Motorcycle,69,Female,54,Minor,0,Weather
+A10773,2024-10-28,20:08,Foster Bridge,Clear,Snowy,Night without streetlights,Medium,Car,18,Male,86,Minor,0,Low Visibility
+A10774,2024-12-30,04:29,Garrett Ridge,Snow,Wet,Daylight,Low,Car,27,Male,44,Serious,4,Mechanical Failure
+A10775,2023-09-11,19:19,Johnson Roads,Clear,Wet,Night with streetlights,Low,Car,70,Male,22,Minor,0,Weather
+A10776,2023-10-06,07:36,Warren Dale,Fog,Dry,Night with streetlights,High,Motorcycle,66,Female,42,Serious,0,Speeding
+A10777,2025-01-15,07:19,Alexander Skyway,Rainy,Dry,Night without streetlights,Low,Motorcycle,32,Female,36,Minor,0,Speeding
+A10778,2024-04-09,09:17,Kimberly Skyway,Snow,Snowy,Daylight,Low,Car,67,Female,116,Minor,0,Drunk Driving
+A10779,2024-02-01,01:22,Perez Parkways,Clear,Dry,Night without streetlights,High,Motorcycle,21,Female,35,Fatal,0,Speeding
+A10780,2024-07-12,01:20,Young Curve,Fog,Snowy,Daylight,Low,Car,56,Male,95,Fatal,1,Weather
+A10781,2024-02-02,15:32,Bradley Terrace,Clear,Dry,Daylight,High,Truck,55,Female,65,Minor,0,Mechanical Failure
+A10782,2024-02-22,19:29,Lee Ramp,Rainy,Snowy,Night without streetlights,Low,Car,70,Male,87,Minor,0,Drunk Driving
+A10783,2023-11-18,07:17,James Skyway,Fog,Dry,Night without streetlights,Low,Motorcycle,24,Male,84,Serious,3,Weather
+A10784,2024-11-03,18:49,Coleman Points,Rainy,Wet,Night without streetlights,Low,Car,71,Female,68,Minor,0,Mechanical Failure
+A10785,2024-09-14,23:23,Newton Keys,Rainy,Wet,Daylight,Medium,Car,47,Male,86,Minor,0,Weather
+A10786,2024-08-09,21:01,Gardner Dale,Fog,Snowy,Night without streetlights,Low,Car,38,Female,34,Minor,0,Low Visibility
+A10787,2024-08-29,14:26,Boyd Court,Fog,Snowy,Night with streetlights,Low,Motorcycle,44,Female,74,Minor,0,Speeding
+A10788,2023-05-11,19:47,Kim Turnpike,Snow,Snowy,Night with streetlights,Low,Car,61,Female,106,Minor,0,Low Visibility
+A10789,2024-05-19,21:10,Jodi Ports,Clear,Dry,Daylight,Medium,Truck,62,Male,114,Fatal,1,Speeding
+A10790,2023-11-06,23:32,Hardin Glen,Fog,Dry,Night with streetlights,Low,Motorcycle,72,Female,35,Minor,0,Low Visibility
+A10791,2023-11-15,01:56,Amber Turnpike,Snow,Wet,Night without streetlights,High,Motorcycle,35,Female,65,Minor,0,Mechanical Failure
+A10792,2025-05-01,10:39,Destiny Village,Snow,Wet,Night without streetlights,Medium,Car,67,Female,33,Minor,0,Low Visibility
+A10793,2025-04-23,04:03,Williams Cape,Snow,Dry,Night without streetlights,Low,Car,24,Male,28,Minor,0,Speeding
+A10794,2023-12-25,14:20,Gordon Pike,Rainy,Wet,Night without streetlights,High,Truck,27,Female,99,Minor,0,Speeding
+A10795,2024-05-10,17:07,Jason Underpass,Snow,Wet,Daylight,Medium,Motorcycle,49,Female,84,Minor,0,Weather
+A10796,2024-11-02,17:21,Carlos Canyon,Clear,Dry,Night with streetlights,Low,Truck,46,Female,68,Minor,0,Speeding
+A10797,2024-02-04,22:39,Courtney Bypass,Clear,Dry,Night without streetlights,High,Truck,74,Male,82,Minor,0,Weather
+A10798,2025-04-20,17:14,Wagner Crossroad,Snow,Wet,Daylight,High,Motorcycle,49,Female,80,Minor,0,Drunk Driving
+A10799,2023-07-28,02:34,Tiffany Ferry,Clear,Wet,Night with streetlights,Medium,Motorcycle,42,Female,118,Fatal,2,Speeding
+A10800,2024-11-25,21:25,Hawkins Knolls,Clear,Snowy,Daylight,Low,Truck,40,Male,117,Serious,2,Low Visibility
+A10801,2024-03-04,22:46,Sheila Parkways,Clear,Wet,Night with streetlights,Medium,Truck,40,Male,104,Minor,0,Drunk Driving
+A10802,2023-07-22,17:10,Zamora Meadow,Fog,Snowy,Daylight,High,Car,73,Female,34,Minor,0,Speeding
+A10803,2025-03-24,16:22,Frederick Island,Fog,Dry,Night with streetlights,High,Truck,54,Female,54,Minor,0,Low Visibility
+A10804,2024-03-30,10:55,Reynolds Cove,Clear,Wet,Night with streetlights,High,Truck,38,Male,82,Minor,0,Drunk Driving
+A10805,2025-05-06,15:53,Pamela Track,Fog,Wet,Night without streetlights,High,Truck,28,Female,66,Fatal,1,Low Visibility
+A10806,2024-10-04,16:46,Young Cape,Clear,Snowy,Daylight,Medium,Truck,21,Female,93,Minor,0,Drunk Driving
+A10807,2024-06-12,05:07,Brandon Fort,Clear,Snowy,Night without streetlights,Low,Motorcycle,39,Female,28,Minor,0,Mechanical Failure
+A10808,2023-05-11,06:15,Jose Centers,Snow,Wet,Daylight,Medium,Car,59,Female,84,Serious,3,Mechanical Failure
+A10809,2024-01-26,17:09,Crawford Harbor,Fog,Dry,Night with streetlights,Medium,Truck,57,Female,105,Serious,1,Speeding
+A10810,2024-11-17,00:03,Christina Parkway,Rainy,Snowy,Night with streetlights,Low,Motorcycle,70,Female,54,Fatal,4,Mechanical Failure
+A10811,2023-05-14,19:18,Dyer Vista,Snow,Snowy,Night without streetlights,High,Car,51,Male,66,Minor,0,Drunk Driving
+A10812,2024-08-16,06:05,Linda Alley,Rainy,Snowy,Night without streetlights,Medium,Truck,44,Female,28,Minor,0,Low Visibility
+A10813,2025-01-21,21:34,Scott Ranch,Fog,Wet,Night without streetlights,Low,Truck,61,Male,71,Minor,0,Drunk Driving
+A10814,2025-02-03,23:21,Davis Inlet,Rainy,Dry,Daylight,Medium,Truck,49,Female,74,Minor,0,Speeding
+A10815,2024-10-05,22:36,Melvin Greens,Rainy,Dry,Night with streetlights,Low,Car,34,Female,104,Minor,0,Speeding
+A10816,2024-06-25,19:47,Cox Court,Snow,Dry,Daylight,Low,Truck,56,Female,28,Fatal,3,Weather
+A10817,2023-09-03,05:14,Hamilton Common,Clear,Wet,Night without streetlights,Low,Car,25,Male,86,Minor,0,Mechanical Failure
+A10818,2024-04-25,18:24,Sarah Landing,Fog,Wet,Daylight,Low,Motorcycle,25,Female,62,Serious,5,Low Visibility
+A10819,2023-06-06,15:16,Jose Extensions,Rainy,Wet,Daylight,Low,Car,29,Male,55,Minor,0,Weather
+A10820,2023-06-06,18:02,Hector Plain,Clear,Wet,Night without streetlights,Medium,Motorcycle,25,Female,89,Minor,0,Drunk Driving
+A10821,2024-02-01,04:35,Garcia Circles,Fog,Dry,Night with streetlights,Medium,Motorcycle,41,Female,22,Minor,0,Mechanical Failure
+A10822,2023-10-11,09:11,Steele Flats,Clear,Snowy,Night without streetlights,Low,Motorcycle,68,Male,52,Minor,0,Weather
+A10823,2023-10-31,06:51,Patterson Mission,Fog,Snowy,Daylight,High,Car,72,Female,69,Minor,0,Low Visibility
+A10824,2025-04-02,01:59,David Run,Fog,Wet,Daylight,Low,Truck,31,Male,76,Minor,0,Low Visibility
+A10825,2024-12-18,06:11,Turner Loaf,Clear,Wet,Daylight,Medium,Truck,65,Female,62,Serious,0,Drunk Driving
+A10826,2024-04-23,03:09,Michelle Pine,Fog,Snowy,Daylight,Medium,Truck,56,Female,78,Minor,0,Speeding
+A10827,2023-11-05,08:53,Gabriel Flats,Rainy,Snowy,Night with streetlights,High,Car,18,Female,45,Minor,0,Weather
+A10828,2025-04-09,23:44,Woodard Inlet,Clear,Dry,Daylight,Low,Motorcycle,63,Male,96,Minor,0,Weather
+A10829,2024-04-29,02:19,Angela Valley,Snow,Wet,Night without streetlights,Low,Truck,29,Female,56,Minor,0,Low Visibility
+A10830,2023-05-10,22:31,Vanessa Parks,Fog,Dry,Night with streetlights,Medium,Motorcycle,32,Male,22,Fatal,5,Mechanical Failure
+A10831,2025-03-29,01:44,Reid Underpass,Rainy,Dry,Night with streetlights,Low,Truck,62,Male,26,Minor,0,Low Visibility
+A10832,2023-12-14,17:38,Bradley Valley,Fog,Dry,Daylight,Medium,Car,54,Male,21,Serious,3,Low Visibility
+A10833,2023-05-31,10:08,Foster Expressway,Snow,Dry,Daylight,High,Car,30,Female,56,Serious,3,Drunk Driving
+A10834,2023-05-16,17:40,Megan Plain,Snow,Dry,Night without streetlights,Low,Truck,64,Male,73,Minor,0,Drunk Driving
+A10835,2024-10-29,06:12,Moreno Prairie,Clear,Wet,Night with streetlights,Low,Motorcycle,46,Male,67,Minor,0,Low Visibility
+A10836,2024-04-18,22:44,Gardner Tunnel,Clear,Dry,Night with streetlights,Low,Truck,62,Female,107,Minor,0,Low Visibility
+A10837,2025-05-04,22:58,Williams Canyon,Snow,Snowy,Night without streetlights,Medium,Car,24,Male,26,Minor,0,Drunk Driving
+A10838,2024-07-05,10:57,Sanders Rapids,Snow,Wet,Night without streetlights,High,Motorcycle,63,Male,20,Minor,0,Mechanical Failure
+A10839,2024-03-21,21:04,Shaffer Ridge,Snow,Wet,Night with streetlights,High,Truck,26,Male,94,Minor,0,Drunk Driving
+A10840,2024-10-09,21:33,Rodney Corners,Snow,Wet,Night with streetlights,Low,Car,38,Female,38,Minor,0,Weather
+A10841,2023-10-19,13:35,Jonathan Lake,Clear,Dry,Night with streetlights,Medium,Motorcycle,41,Female,56,Fatal,2,Mechanical Failure
+A10842,2025-05-04,14:03,Cheryl Land,Fog,Snowy,Night with streetlights,Medium,Car,38,Female,117,Fatal,4,Low Visibility
+A10843,2024-07-23,11:39,Roberson Flats,Clear,Dry,Daylight,Low,Car,29,Male,80,Minor,0,Low Visibility
+A10844,2023-05-10,00:35,James Manors,Snow,Dry,Night with streetlights,Low,Truck,40,Female,78,Minor,0,Drunk Driving
+A10845,2023-10-08,20:41,Mark Loaf,Clear,Wet,Daylight,Low,Truck,29,Male,115,Minor,0,Weather
+A10846,2023-05-27,14:47,Dean Mews,Rainy,Snowy,Daylight,High,Motorcycle,29,Female,29,Minor,0,Low Visibility
+A10847,2023-11-22,03:12,Jeremy Island,Clear,Wet,Daylight,Medium,Motorcycle,61,Male,70,Minor,0,Speeding
+A10848,2023-07-14,05:27,Roach Trafficway,Fog,Dry,Daylight,Low,Truck,71,Female,78,Minor,0,Weather
+A10849,2025-01-02,08:15,Roth Ridges,Clear,Wet,Daylight,High,Motorcycle,46,Female,113,Fatal,4,Drunk Driving
+A10850,2023-07-15,20:55,Velazquez River,Rainy,Dry,Night without streetlights,Medium,Truck,69,Male,115,Minor,0,Mechanical Failure
+A10851,2023-11-27,00:02,Gutierrez Ridge,Snow,Dry,Night with streetlights,Medium,Car,33,Female,31,Minor,0,Drunk Driving
+A10852,2023-10-19,23:31,Barnes Ports,Rainy,Wet,Night with streetlights,Medium,Motorcycle,66,Male,35,Minor,0,Low Visibility
+A10853,2025-04-14,04:59,Murphy Overpass,Fog,Snowy,Night without streetlights,Low,Truck,60,Male,67,Minor,0,Low Visibility
+A10854,2024-08-20,04:33,Lane Pass,Snow,Wet,Night with streetlights,Medium,Motorcycle,56,Female,31,Serious,2,Mechanical Failure
+A10855,2024-09-17,03:52,Keith Roads,Rainy,Wet,Night without streetlights,Medium,Car,20,Female,79,Minor,0,Drunk Driving
+A10856,2023-06-01,13:24,Jennifer Streets,Snow,Snowy,Night without streetlights,High,Motorcycle,23,Female,79,Minor,0,Low Visibility
+A10857,2023-12-02,04:29,Brandon Stravenue,Fog,Dry,Daylight,High,Truck,71,Male,86,Minor,0,Mechanical Failure
+A10858,2023-07-05,14:32,Steven Drive,Clear,Snowy,Daylight,Low,Motorcycle,24,Female,72,Minor,0,Mechanical Failure
+A10859,2023-11-19,09:16,Daniel Loop,Fog,Wet,Night with streetlights,High,Car,67,Male,34,Serious,3,Drunk Driving
+A10860,2023-07-09,21:48,Candace Hollow,Rainy,Wet,Daylight,Low,Truck,74,Female,60,Minor,0,Low Visibility
+A10861,2024-01-12,16:25,Thomas Garden,Snow,Snowy,Night with streetlights,Medium,Car,31,Male,30,Serious,4,Weather
+A10862,2024-02-14,13:05,Baker Inlet,Clear,Wet,Night without streetlights,Low,Car,43,Male,21,Minor,0,Low Visibility
+A10863,2025-04-28,02:25,Schwartz Lights,Snow,Snowy,Night with streetlights,High,Motorcycle,56,Female,58,Minor,0,Mechanical Failure
+A10864,2024-06-11,19:49,Pitts Turnpike,Fog,Snowy,Night without streetlights,High,Motorcycle,43,Female,31,Minor,0,Speeding
+A10865,2025-01-22,03:16,Brian Motorway,Rainy,Dry,Daylight,High,Car,72,Male,46,Minor,0,Drunk Driving
+A10866,2024-04-26,04:00,Gilbert Street,Rainy,Wet,Night without streetlights,High,Car,23,Female,118,Minor,0,Low Visibility
+A10867,2023-06-17,18:58,Day Street,Snow,Dry,Daylight,Low,Car,65,Female,82,Minor,0,Low Visibility
+A10868,2025-03-21,06:22,Courtney Route,Rainy,Dry,Night with streetlights,High,Truck,21,Female,21,Minor,0,Low Visibility
+A10869,2024-02-15,00:14,Diaz Mountains,Snow,Wet,Night without streetlights,High,Motorcycle,64,Female,24,Minor,0,Low Visibility
+A10870,2024-10-13,00:16,Welch Key,Snow,Dry,Night without streetlights,Low,Motorcycle,19,Female,93,Minor,0,Speeding
+A10871,2024-03-04,18:27,Ronald Highway,Fog,Snowy,Night with streetlights,Medium,Car,49,Female,77,Minor,0,Speeding
+A10872,2023-05-20,21:47,Judith Shore,Rainy,Wet,Night without streetlights,Low,Truck,40,Female,49,Minor,0,Mechanical Failure
+A10873,2023-06-02,05:12,Johnson Wells,Fog,Snowy,Night without streetlights,High,Truck,26,Female,112,Serious,3,Weather
+A10874,2024-09-17,07:15,Jennifer Summit,Snow,Dry,Night without streetlights,Low,Truck,62,Male,105,Minor,0,Drunk Driving
+A10875,2023-10-09,07:10,Misty Via,Rainy,Dry,Night without streetlights,Medium,Car,68,Female,83,Minor,0,Drunk Driving
+A10876,2025-02-06,11:24,Leon Vista,Clear,Dry,Night with streetlights,Medium,Truck,61,Male,42,Serious,4,Speeding
+A10877,2023-10-29,15:54,Mark Shoals,Clear,Wet,Night with streetlights,Low,Motorcycle,32,Male,91,Minor,0,Weather
+A10878,2024-10-28,04:37,Harrison Junction,Fog,Wet,Daylight,High,Truck,75,Male,108,Serious,4,Speeding
+A10879,2024-04-14,19:57,Brown Harbors,Clear,Wet,Night with streetlights,Low,Car,68,Male,91,Minor,0,Speeding
+A10880,2024-08-29,09:07,Stevens Square,Rainy,Snowy,Daylight,Low,Truck,28,Female,110,Minor,0,Mechanical Failure
+A10881,2024-06-25,23:29,Taylor Cliff,Snow,Snowy,Daylight,Low,Motorcycle,41,Female,37,Minor,0,Drunk Driving
+A10882,2024-12-10,22:37,Kylie Rapid,Snow,Wet,Daylight,Low,Truck,39,Female,84,Minor,0,Weather
+A10883,2025-02-17,21:20,Jacob Cove,Fog,Snowy,Night with streetlights,Medium,Motorcycle,60,Male,39,Serious,4,Low Visibility
+A10884,2024-12-19,18:22,Melissa Common,Rainy,Dry,Night with streetlights,Medium,Truck,75,Female,86,Serious,2,Speeding
+A10885,2023-11-08,00:06,Holmes Courts,Snow,Dry,Daylight,High,Motorcycle,22,Male,63,Minor,0,Drunk Driving
+A10886,2024-08-31,13:45,Shaw Cove,Snow,Dry,Night with streetlights,Low,Motorcycle,59,Male,93,Minor,0,Mechanical Failure
+A10887,2023-08-25,13:32,Aaron Islands,Fog,Wet,Night with streetlights,High,Motorcycle,53,Female,112,Serious,2,Speeding
+A10888,2023-08-03,18:45,Munoz Tunnel,Fog,Snowy,Night without streetlights,Low,Motorcycle,43,Female,102,Minor,0,Mechanical Failure
+A10889,2023-11-27,13:07,Tucker Crest,Snow,Snowy,Night with streetlights,High,Truck,67,Male,58,Minor,0,Mechanical Failure
+A10890,2025-04-22,20:34,Maria Station,Fog,Wet,Night without streetlights,High,Motorcycle,74,Male,86,Fatal,2,Drunk Driving
+A10891,2024-05-25,13:44,Benjamin Points,Clear,Snowy,Night without streetlights,Medium,Motorcycle,39,Male,22,Minor,0,Mechanical Failure
+A10892,2023-05-28,14:29,Denise Cliffs,Fog,Dry,Night with streetlights,High,Truck,50,Male,113,Minor,0,Weather
+A10893,2025-04-06,00:26,Hernandez Knoll,Fog,Snowy,Night without streetlights,Medium,Car,21,Male,77,Minor,0,Speeding
+A10894,2023-08-19,09:40,James Club,Snow,Wet,Daylight,High,Motorcycle,54,Male,64,Minor,0,Mechanical Failure
+A10895,2024-07-28,01:21,Wood View,Rainy,Snowy,Night with streetlights,High,Motorcycle,33,Male,61,Minor,0,Drunk Driving
+A10896,2024-07-14,14:22,Kathleen Lights,Fog,Wet,Daylight,Low,Motorcycle,45,Female,30,Minor,0,Low Visibility
+A10897,2024-12-18,18:42,Atkinson Knoll,Rainy,Wet,Daylight,Medium,Car,41,Female,95,Minor,0,Low Visibility
+A10898,2024-06-04,08:08,James Loaf,Fog,Snowy,Night with streetlights,High,Truck,46,Female,113,Fatal,1,Drunk Driving
+A10899,2024-10-02,17:11,Fritz Coves,Rainy,Wet,Night without streetlights,Medium,Car,63,Male,108,Minor,0,Low Visibility
+A10900,2024-12-01,03:14,Michael Islands,Clear,Snowy,Daylight,High,Truck,25,Female,34,Minor,0,Mechanical Failure
+A10901,2023-07-01,01:04,Krystal Bridge,Fog,Dry,Night without streetlights,Low,Car,41,Female,67,Minor,0,Low Visibility
+A10902,2024-09-17,14:44,Jeffrey Circle,Clear,Dry,Daylight,High,Truck,21,Female,56,Minor,0,Low Visibility
+A10903,2023-09-16,08:07,Nicole Vista,Clear,Dry,Night without streetlights,Medium,Car,73,Male,73,Minor,0,Weather
+A10904,2025-01-28,15:10,Kayla Trafficway,Snow,Wet,Night with streetlights,Medium,Motorcycle,71,Male,117,Minor,0,Low Visibility
+A10905,2023-06-28,20:17,Armstrong Shores,Snow,Snowy,Night with streetlights,Low,Motorcycle,38,Male,99,Minor,0,Low Visibility
+A10906,2023-09-16,05:09,Janet Lakes,Snow,Dry,Night with streetlights,Medium,Motorcycle,20,Female,114,Minor,0,Speeding
+A10907,2024-10-04,17:48,Regina Ford,Rainy,Snowy,Daylight,High,Motorcycle,68,Female,91,Minor,0,Mechanical Failure
+A10908,2025-01-19,06:45,Ortiz Junctions,Clear,Dry,Night without streetlights,High,Motorcycle,66,Male,92,Minor,0,Low Visibility
+A10909,2024-08-17,06:48,Evans Squares,Clear,Dry,Night without streetlights,High,Car,19,Female,120,Minor,0,Mechanical Failure
+A10910,2023-08-11,16:44,Gary Prairie,Snow,Dry,Night without streetlights,High,Truck,43,Male,82,Serious,0,Weather
+A10911,2024-11-01,23:22,Andrea Corners,Snow,Dry,Night with streetlights,Low,Motorcycle,38,Female,52,Minor,0,Speeding
+A10912,2024-11-03,12:34,David Isle,Rainy,Wet,Daylight,Low,Truck,67,Male,39,Minor,0,Low Visibility
+A10913,2024-10-04,05:32,Perez Mountains,Rainy,Dry,Night without streetlights,Medium,Car,19,Male,58,Minor,0,Weather
+A10914,2024-11-01,21:37,Lawson Curve,Rainy,Wet,Night with streetlights,Medium,Truck,70,Male,26,Minor,0,Mechanical Failure
+A10915,2023-09-15,22:11,Angela Trail,Rainy,Wet,Night without streetlights,High,Truck,25,Female,27,Minor,0,Mechanical Failure
+A10916,2023-06-23,10:55,Rose River,Snow,Dry,Night with streetlights,Low,Truck,58,Male,22,Minor,0,Mechanical Failure
+A10917,2024-12-13,10:45,Mendez Ramp,Clear,Dry,Night without streetlights,High,Car,37,Female,77,Minor,0,Mechanical Failure
+A10918,2024-07-03,11:59,Cody Dale,Rainy,Dry,Night with streetlights,High,Car,68,Male,88,Fatal,4,Low Visibility
+A10919,2025-02-20,04:03,Clinton Square,Clear,Dry,Night with streetlights,High,Truck,59,Male,20,Minor,0,Low Visibility
+A10920,2024-03-06,21:40,Sharp Mount,Fog,Snowy,Night with streetlights,High,Truck,40,Male,94,Serious,2,Speeding
+A10921,2024-01-21,13:28,Ross Crescent,Rainy,Snowy,Night without streetlights,High,Car,37,Male,70,Minor,0,Drunk Driving
+A10922,2024-12-15,16:22,Gamble Villages,Fog,Wet,Daylight,High,Motorcycle,69,Female,107,Fatal,5,Weather
+A10923,2025-02-28,10:25,Amy Dale,Snow,Wet,Daylight,High,Truck,39,Male,78,Fatal,2,Speeding
+A10924,2023-12-19,19:04,Gutierrez Plains,Rainy,Snowy,Daylight,High,Truck,18,Male,106,Minor,0,Mechanical Failure
+A10925,2023-05-28,10:19,Anthony Gateway,Snow,Wet,Night without streetlights,Low,Motorcycle,59,Male,88,Minor,0,Low Visibility
+A10926,2024-11-22,01:36,Megan Fall,Clear,Wet,Night with streetlights,High,Truck,42,Male,118,Serious,0,Speeding
+A10927,2023-05-10,13:13,Taylor Ville,Snow,Wet,Daylight,Medium,Car,32,Male,117,Minor,0,Weather
+A10928,2025-03-03,03:00,Harper Passage,Rainy,Dry,Night without streetlights,High,Truck,69,Male,49,Fatal,2,Speeding
+A10929,2025-03-10,10:27,Lewis Turnpike,Fog,Wet,Night without streetlights,High,Motorcycle,31,Male,45,Fatal,5,Low Visibility
+A10930,2023-08-06,14:32,Shari Circles,Clear,Wet,Night without streetlights,High,Truck,28,Male,104,Serious,5,Mechanical Failure
+A10931,2024-11-27,02:15,Karen Mount,Rainy,Dry,Night without streetlights,Low,Motorcycle,22,Male,53,Fatal,1,Mechanical Failure
+A10932,2023-09-04,06:02,Erik Camp,Fog,Dry,Night without streetlights,Low,Motorcycle,61,Female,107,Minor,0,Low Visibility
+A10933,2024-01-29,20:24,Figueroa Landing,Clear,Wet,Night without streetlights,High,Motorcycle,21,Female,75,Serious,3,Weather
+A10934,2024-12-16,01:18,Carl Estates,Clear,Snowy,Night without streetlights,Medium,Truck,41,Male,112,Minor,0,Weather
+A10935,2023-12-01,09:36,Jesse Trail,Snow,Snowy,Night with streetlights,Medium,Car,43,Male,62,Minor,0,Mechanical Failure
+A10936,2024-11-15,16:04,Kathryn Locks,Clear,Snowy,Daylight,High,Truck,22,Male,45,Minor,0,Weather
+A10937,2025-02-02,00:06,King Island,Clear,Snowy,Night without streetlights,Low,Car,48,Female,23,Minor,0,Weather
+A10938,2023-08-24,03:56,Ross Shoals,Fog,Dry,Daylight,Medium,Car,39,Male,62,Minor,0,Drunk Driving
+A10939,2024-07-20,17:35,Gonzales Walks,Clear,Snowy,Night without streetlights,Medium,Car,58,Female,94,Minor,0,Speeding
+A10940,2023-10-19,12:35,Keith Forest,Clear,Wet,Night with streetlights,High,Car,68,Male,27,Fatal,3,Speeding
+A10941,2023-11-23,04:59,Russell Shore,Fog,Snowy,Night without streetlights,Medium,Car,24,Male,91,Minor,0,Low Visibility
+A10942,2023-10-19,09:39,Livingston Station,Snow,Dry,Night without streetlights,Medium,Car,73,Male,78,Minor,0,Low Visibility
+A10943,2023-10-18,03:10,Adams Isle,Clear,Wet,Night without streetlights,High,Car,47,Female,95,Minor,0,Speeding
+A10944,2024-01-16,06:21,Barton Passage,Clear,Snowy,Night without streetlights,Low,Motorcycle,68,Male,93,Minor,0,Mechanical Failure
+A10945,2023-06-19,23:48,Nixon Ways,Fog,Wet,Night with streetlights,Medium,Motorcycle,57,Female,43,Minor,0,Speeding
+A10946,2024-11-12,02:18,Jasmine Meadow,Clear,Dry,Night with streetlights,High,Truck,50,Female,59,Minor,0,Mechanical Failure
+A10947,2023-09-11,05:02,Weiss Causeway,Rainy,Dry,Night with streetlights,Medium,Motorcycle,39,Female,67,Fatal,4,Mechanical Failure
+A10948,2024-03-10,22:30,Jacobs Tunnel,Rainy,Dry,Daylight,High,Motorcycle,72,Male,74,Minor,0,Drunk Driving
+A10949,2023-10-09,10:04,Doyle Cliff,Rainy,Dry,Night with streetlights,Low,Motorcycle,48,Female,96,Minor,0,Mechanical Failure
+A10950,2024-05-16,00:25,Ryan Plaza,Fog,Snowy,Night with streetlights,Medium,Truck,28,Male,78,Serious,0,Low Visibility
+A10951,2024-05-08,17:11,Richard Mountains,Rainy,Dry,Night without streetlights,Low,Motorcycle,32,Female,99,Minor,0,Low Visibility
+A10952,2025-02-21,18:07,Emily Center,Fog,Snowy,Night with streetlights,Low,Truck,29,Male,66,Minor,0,Weather
+A10953,2024-01-14,12:27,Ramirez Forges,Clear,Snowy,Daylight,Low,Truck,46,Male,100,Minor,0,Weather
+A10954,2024-05-02,18:59,Fisher Springs,Clear,Dry,Daylight,Low,Truck,29,Male,53,Serious,2,Mechanical Failure
+A10955,2024-10-25,04:34,Sanchez Light,Rainy,Dry,Daylight,Low,Car,71,Female,32,Minor,0,Drunk Driving
+A10956,2024-02-26,07:30,Vanessa Glen,Snow,Snowy,Daylight,Medium,Car,37,Female,50,Minor,0,Weather
+A10957,2024-12-05,03:49,Best Glen,Rainy,Snowy,Night without streetlights,Medium,Motorcycle,22,Male,38,Serious,1,Drunk Driving
+A10958,2025-03-24,17:05,Daniel Brooks,Rainy,Snowy,Night with streetlights,High,Truck,38,Female,101,Minor,0,Speeding
+A10959,2024-01-22,08:18,Romero Gardens,Rainy,Snowy,Night with streetlights,Low,Truck,33,Male,100,Serious,1,Mechanical Failure
+A10960,2024-01-02,03:04,Conley Circles,Snow,Dry,Night without streetlights,Low,Truck,68,Male,41,Minor,0,Mechanical Failure
+A10961,2023-05-26,14:53,Kim View,Fog,Wet,Night without streetlights,Medium,Car,38,Female,87,Minor,0,Low Visibility
+A10962,2024-08-28,05:32,Jaclyn Run,Snow,Wet,Night without streetlights,Medium,Motorcycle,68,Male,46,Minor,0,Drunk Driving
+A10963,2023-07-19,22:42,Allen Center,Snow,Dry,Night with streetlights,Low,Truck,45,Female,93,Minor,0,Weather
+A10964,2025-03-09,05:49,Michael Extension,Fog,Snowy,Daylight,Low,Car,36,Female,86,Minor,0,Mechanical Failure
+A10965,2024-12-31,02:41,Nina Motorway,Clear,Wet,Night without streetlights,High,Truck,45,Female,79,Minor,0,Weather
+A10966,2023-07-23,18:58,Carr Well,Snow,Wet,Night with streetlights,Medium,Car,29,Female,49,Minor,0,Speeding
+A10967,2024-11-12,00:03,Smith Mountain,Fog,Dry,Night with streetlights,High,Motorcycle,52,Male,120,Minor,0,Drunk Driving
+A10968,2023-05-29,23:45,Elizabeth Falls,Clear,Dry,Daylight,Medium,Car,52,Male,62,Minor,0,Weather
+A10969,2023-10-27,03:47,Jenkins Prairie,Fog,Wet,Night without streetlights,High,Truck,30,Male,116,Serious,4,Weather
+A10970,2024-08-21,20:40,Kimberly Trail,Clear,Wet,Night with streetlights,Medium,Truck,43,Male,80,Minor,0,Drunk Driving
+A10971,2023-06-29,01:28,Hernandez Viaduct,Snow,Dry,Daylight,High,Motorcycle,31,Female,49,Minor,0,Mechanical Failure
+A10972,2024-02-05,16:46,Christopher River,Snow,Snowy,Night with streetlights,Medium,Car,38,Male,74,Serious,5,Low Visibility
+A10973,2023-07-28,19:56,Alan Trail,Rainy,Wet,Night with streetlights,High,Car,41,Male,93,Serious,2,Speeding
+A10974,2023-11-26,00:05,Blackwell Harbor,Snow,Snowy,Night with streetlights,Medium,Car,44,Female,107,Serious,5,Mechanical Failure
+A10975,2024-08-27,19:11,Knight Crest,Fog,Wet,Night without streetlights,Low,Motorcycle,68,Male,37,Minor,0,Weather
+A10976,2023-11-20,21:40,Anthony Bypass,Snow,Wet,Daylight,Medium,Car,52,Female,44,Minor,0,Weather
+A10977,2024-04-06,00:38,Reed Green,Snow,Snowy,Night with streetlights,Low,Car,24,Male,24,Serious,4,Low Visibility
+A10978,2024-10-03,07:33,Paul View,Clear,Dry,Daylight,Low,Truck,36,Male,49,Minor,0,Mechanical Failure
+A10979,2024-12-19,07:04,Reginald Plaza,Clear,Wet,Daylight,Medium,Motorcycle,18,Male,61,Serious,3,Low Visibility
+A10980,2023-09-28,18:42,Knapp Brook,Rainy,Dry,Daylight,High,Truck,48,Male,69,Fatal,1,Drunk Driving
+A10981,2024-11-25,07:40,Williams Square,Rainy,Wet,Night with streetlights,High,Motorcycle,48,Male,97,Minor,0,Weather
+A10982,2023-08-15,06:02,Thompson Well,Rainy,Snowy,Night without streetlights,High,Truck,35,Male,20,Fatal,3,Speeding
+A10983,2025-02-19,10:38,Harrison Fields,Snow,Snowy,Daylight,High,Truck,54,Female,78,Minor,0,Speeding
+A10984,2024-09-01,07:07,Sherry Points,Clear,Wet,Night without streetlights,Medium,Truck,62,Female,70,Minor,0,Drunk Driving
+A10985,2024-06-17,16:32,Bernard Rapid,Snow,Dry,Daylight,High,Motorcycle,45,Female,69,Fatal,1,Mechanical Failure
+A10986,2025-03-03,08:17,Michael Trail,Clear,Wet,Night without streetlights,Low,Car,74,Male,55,Serious,4,Weather
+A10987,2024-04-08,13:32,Wells Falls,Clear,Snowy,Night without streetlights,High,Car,49,Female,117,Minor,0,Weather
+A10988,2025-01-04,12:59,Daniel Turnpike,Clear,Dry,Night without streetlights,Medium,Truck,46,Male,52,Minor,0,Speeding
+A10989,2024-10-27,01:29,Gallagher Lodge,Snow,Dry,Daylight,High,Motorcycle,61,Female,68,Minor,0,Low Visibility
+A10990,2023-10-07,12:22,Watkins Hollow,Rainy,Wet,Daylight,Low,Truck,25,Male,61,Minor,0,Low Visibility
+A10991,2023-12-27,01:49,Dylan Route,Snow,Wet,Daylight,Low,Motorcycle,60,Male,111,Fatal,1,Low Visibility
+A10992,2025-02-10,11:01,Bridget Stravenue,Fog,Dry,Daylight,Low,Motorcycle,24,Male,57,Minor,0,Low Visibility
+A10993,2025-02-21,23:44,Sonia Pines,Rainy,Dry,Night without streetlights,Low,Motorcycle,35,Male,76,Minor,0,Drunk Driving
+A10994,2025-02-18,19:48,Rebecca Field,Clear,Snowy,Night without streetlights,Low,Truck,62,Male,101,Serious,5,Speeding
+A10995,2024-08-18,08:56,Larson Hollow,Snow,Snowy,Night with streetlights,Medium,Car,56,Male,26,Serious,1,Drunk Driving
+A10996,2024-06-07,15:20,Love Crescent,Fog,Dry,Daylight,Low,Car,44,Male,21,Minor,0,Drunk Driving
+A10997,2024-08-26,06:04,Tiffany Corner,Clear,Dry,Daylight,High,Car,64,Male,25,Minor,0,Speeding
+A10998,2024-03-15,21:31,Alexander Mall,Fog,Wet,Night without streetlights,High,Car,57,Male,89,Minor,0,Low Visibility
+A10999,2023-12-31,21:25,Barry Shoals,Clear,Dry,Daylight,Low,Truck,38,Male,21,Minor,0,Weather
